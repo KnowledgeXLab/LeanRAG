@@ -1,0 +1,192 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "leanrag"
+version = "0.0.1"
+description = "Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "RaZzzyz"},
+]
+maintainers = [
+    {name = "RaZzzyz"},
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+requires-python = ">=3.11"
+keywords = [
+    "rag",
+    "retrieval-augmented-generation",
+    "knowledge-graph",
+    "llm",
+    "nlp",
+    "semantic-search",
+]
+
+dependencies = [
+    # Core ML/AI packages
+    "torch>=2.0.0",
+    "transformers>=4.30.0",
+    "numpy>=1.20.0",
+    "pandas>=1.5.0",
+    "scipy>=1.7.0",
+    "scikit-learn>=1.0.0",
+    
+    # Graph and retrieval packages
+    "networkx>=3.0",
+    "igraph>=0.10.0",
+    "hnswlib>=0.7.0",
+    # Note: fast-graphrag may show a warning about google-cloud-aiplatform[all] 
+    # not existing - this is harmless and doesn't affect functionality
+    "fast-graphrag>=0.0.5",
+    
+    # LLM and embeddings
+    "openai>=1.0.0",
+    "huggingface-hub>=0.15.0",
+    "tiktoken>=0.5.0",
+    
+    # LangChain ecosystem
+    "langchain>=0.1.0",
+    "langchain-community>=0.0.20",
+    "langchain-core>=0.1.0",
+    "langchain-openai>=0.0.5",
+    "langchain-text-splitters>=0.0.1",
+    "langsmith>=0.1.0",
+    
+    # FastAPI and web
+    "fastapi>=0.100.0",
+    "uvicorn>=0.20.0",
+    "httpx>=0.25.0",
+    
+    # Database and storage
+    "redis>=4.0.0",
+    "neo4j>=5.0.0",
+    "milvus-lite>=2.4.0",
+    "pymilvus>=2.4.0",
+    
+    # Utilities
+    "pydantic>=2.0.0",
+    "pyyaml>=6.0",
+    "tqdm>=4.60.0",
+    "click>=8.0.0",
+    "rich>=13.0.0",
+    "typer>=0.9.0",
+    
+    # Text processing and search
+    "pyahocorasick>=2.0.0",
+    "jieba>=0.40.0",
+    
+    # GitHub dependencies
+    "lightrag-hku @ git+https://github.com/HKUDS/LightRAG.git@1c870454f1286ab42c1ad3d61925c17bce773dd8",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+    "black>=23.0.0",
+    "isort>=5.12.0",
+    "flake8>=6.0.0",
+    "mypy>=1.0.0",
+]
+
+nano-graphrag = [
+    # Updated to use latest version which now supports Python 3.11+
+    "nano-graphrag @ git+https://github.com/gusye1234/nano-graphrag.git",
+]
+
+full = [
+    # Additional packages from requirements.txt that may have compatibility issues
+    "gensim>=4.3.0",
+    "sentence-transformers",
+    "faiss-cpu",
+    "vllm>=0.8.0",
+    "dspy>=2.6.0",
+    "datasets>=3.4.0",
+]
+
+google-cloud = [
+    # Google Cloud AI Platform with tokenization support for Gemini models
+    "google-cloud-aiplatform[tokenization]>=1.71.0",
+    "vertexai>=1.71.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/marklabz/LeanRAG"
+Repository = "https://github.com/marklabz/LeanRAG"
+Documentation = "https://github.com/marklabz/LeanRAG#readme"
+"Bug Reports" = "https://github.com/marklabz/LeanRAG/issues"
+
+[tool.setuptools]
+packages = ["leanrag", "CommonKG", "GraphExtraction", "tools"]
+
+[tool.setuptools.package-dir]
+"" = "."
+
+[tool.black]
+line-length = 88
+target-version = ['py310', 'py311', 'py312']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | build
+  | dist
+)/
+'''
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+line_length = 88
+known_first_party = ["leanrag", "CommonKG", "GraphExtraction", "tools"]
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+disallow_untyped_decorators = true
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_no_return = true
+warn_unreachable = true
+strict_equality = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = [
+    "--cov=leanrag",
+    "--cov=CommonKG",
+    "--cov=GraphExtraction",
+    "--cov=tools",
+    "--cov-report=term-missing",
+    "--cov-report=html",
+    "--strict-markers",
+    "--strict-config",
+]

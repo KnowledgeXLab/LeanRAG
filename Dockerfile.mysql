@@ -1,0 +1,25 @@
+# Dockerfile for MySQL server compatible with database_utils.py
+FROM mysql:8.0
+
+# Set environment variables to match database_utils.py requirements
+ENV MYSQL_ROOT_PASSWORD=123
+ENV MYSQL_DATABASE=leanrag_default
+ENV MYSQL_CHARSET=utf8mb4
+ENV MYSQL_COLLATION=utf8mb4_unicode_ci
+
+# Expose the port that database_utils.py expects (4321 will be mapped from host)
+EXPOSE 3306
+
+# Configure MySQL with the required character set and collation
+RUN echo '[mysqld]' > /etc/mysql/conf.d/custom.cnf && \
+    echo 'character-set-server=utf8mb4' >> /etc/mysql/conf.d/custom.cnf && \
+    echo 'collation-server=utf8mb4_unicode_ci' >> /etc/mysql/conf.d/custom.cnf && \
+    echo 'default-authentication-plugin=mysql_native_password' >> /etc/mysql/conf.d/custom.cnf && \
+    echo 'sql-mode=STRICT_TRANS_TABLES,NO_ZERO_DATE,NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO' >> /etc/mysql/conf.d/custom.cnf
+
+# Add initialization script if needed
+COPY mysql-init/ /docker-entrypoint-initdb.d/
+
+# Health check to ensure MySQL is ready
+HEALTHCHECK --interval=30s --timeout=10s --start-period=30s --retries=3 \
+    CMD mysqladmin ping -h localhost -u root -p123 || exit 1

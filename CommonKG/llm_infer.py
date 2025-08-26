@@ -9,7 +9,7 @@ import time
 from openai import OpenAI
 
 from tools.logger_factory import setup_logger
-from triple import Triple
+from CommonKG.triple import Triple
 
 logger = setup_logger("llm_processor")
 
@@ -20,36 +20,36 @@ class InstanceManager:
         self.base_url = base_url
         self.instances = []
         self.lock = threading.Lock()
-        self.current_instance = 0  # 用于轮询策略
+        self.current_instance = 0  # Used for polling strategy
 
         for port, gpu in zip(self.ports, self.gpus):
             self.start_instance(gpu, port)
             self.instances.append({"port": port, "load": 0})
-        time.sleep(startup_delay)  # 等待所有实例启动
+        time.sleep(startup_delay)  # Wait for all instances to start
 
     def start_instance(self, num, port):
-        """启动ollama实例在特定GPU和端口上"""
+        """Start ollama instance on specific GPU and port"""
         # cmd = f"CUDA_VISIBLE_DEVICES={num} OLLAMA_HOST={self.base_url}:{port} ollama serve"
         cmd = f"OLLAMA_HOST={self.base_url}:{port} ollama serve"
         print("Running command:", cmd)
         # subprocess.Popen(cmd, shell=True, stderr=subprocess.DEVNULL, stdout=subprocess.DEVNULL)
 
     def get_available_instance(self):
-        """使用轮询策略获取一个可用的实例"""
+        """Use polling strategy to get an available instance"""
         with self.lock:
             instance = self.instances[self.current_instance]
             self.current_instance = (self.current_instance + 1) % len(self.instances)
-            return instance["port"]  # 返回端口
+            return instance["port"]  # Return port
 
-    def generate_text(self, prompt, model="qwen:72b", temperature=0):
-        """发送请求到选择的实例"""
+    def generate_text(self, prompt, model="qwen:72b", temperature=0, output_json=False):
+        """Send request to selected instance"""
         port = self.get_available_instance()
         base_url = f"{self.base_url}:{port}"
         
         response = requests.post(
             f"{base_url}/api/generate",
             json={"model": model, "prompt": prompt, "temperature": temperature},
-            timeout=30  # 设置超时时间，避免无限等待
+            timeout=30  # Set timeout to avoid infinite waiting
         )
         response.raise_for_status()
         return response
@@ -62,27 +62,31 @@ class LLM_Processor:
         self.base_url = args["llm_url"]
         self.api_key = args["llm_api_key"]
         self.max_error = args["max_error"]
-        self.ports = [8001 + i for i in range(args["gpu_nums"])]  # 端口池
-        self.gpus = [i for i in range(args["gpu_nums"])]  # GPU编号
+        self.ports = [8001 + i for i in range(args["gpu_nums"])]  # Port pool
+        self.gpus = [i for i in range(args["gpu_nums"])]  # GPU numbers
         if args["use_ollama"]:
+            print(f'OLLAMA was requested: {args["use_ollama"]}')
             self.manager = InstanceManager(self.ports, self.gpus, self.base_url)
             self.generate_text = self.manager.generate_text
         elif args["use_vllm"]:
+            print(f'VLLM was requested: {args["use_vllm"]}')
             self.manager = InstanceManager(self.ports, self.gpus, self.base_url)
             self.generate_text = self.vllm_generate_text
         else:
+            print(f'All else has failed, final default being executed for either LLM/VLLM by creating general default text: {self.default_generate_text}')
+            print(f"Using model: {self.model} at {self.base_url} with api key: {self.api_key[:4]}****")
             self.generate_text = self.default_generate_text
     
 
-    def vllm_generate_text(self, prompt, model,max_tokens=4096, output_json=False):
-        """使用vLLM生成文本"""
+    def vllm_generate_text(self, prompt, model, temperature=0, max_tokens=4096, output_json=False):
+        """Generate text using vLLM"""
         
         port = self.manager.get_available_instance()
         base_url = f"{self.base_url}:{port}/v1"
         
         try:
             if output_json:
-                # 调用 Chat Completion API 并设置参数
+                # Call Chat Completion API and set parameters
                  response = requests.post(
             f"{base_url}/chat/completions",
             json={
@@ -94,6 +98,7 @@ class LLM_Processor:
                 "response_format":{"type": "json_object"},
                 "chat_template_kwargs": {"enable_thinking": False}
             },
+            headers={"Authorization": f"Bearer {self.api_key}"},
             timeout=120
         )
                
@@ -108,6 +113,7 @@ class LLM_Processor:
                 "max_tokens" : max_tokens,
                 "chat_template_kwargs": {"enable_thinking": False}
             },
+            headers={"Authorization": f"Bearer {self.api_key}"},
             timeout=120
         )
             response.raise_for_status()
@@ -120,11 +126,14 @@ class LLM_Processor:
             logger.info(f"Error: {e}")
             return None
 
-    def default_generate_text(self, prompt, model="qwen-plus", temperature=0, max_tokens=4096, output_json=False):
+    def default_generate_text(self, prompt, model="qwen/qwen3-32b", temperature=0, max_tokens=4096, output_json=False):
         client = OpenAI(api_key=self.api_key, base_url=self.base_url)
+        print(f"default_generate_text API Key: {self.api_key}")
+        print(f"Using model: {model} at {self.base_url}")
+        print(f"Prompt: {prompt}...type: {type(prompt)}")  # Print first 50 characters of the prompt for debugging
         try:
             if output_json:
-                # 调用 Chat Completion API 并设置参数
+                # Call Chat Completion API and set parameters
                 completion = client.chat.completions.create(
                     model = model,
                     messages=[
@@ -141,15 +150,18 @@ class LLM_Processor:
                         {'role': 'user', 'content': prompt}],
                     max_tokens = max_tokens
                     )
-
-            return completion.model_dump()["choices"][0]["message"]["content"]
+                
+            print(f"LLM response: {completion} type: {type(completion)}")    
+            response = completion.model_dump()["choices"][0]["message"]["content"]
+            print(f'completion response: {response}')
+            return  response
             
         except Exception as e:
             logger.info(f"Error: {e}")
             return None
     
     def extract_responses(self, response):
-        """从流式响应中提取文本."""
+        """Extract text from streaming response."""
         responses = []
         for line in response.iter_lines():
             if line:
@@ -206,9 +218,9 @@ class LLM_Processor:
 
     def extract_description_prompt(self, text:str, triple:str):
 
-        # 处理制表符分隔的字符串并转换格式
+        # Process tab-separated string and convert format
         parts = triple.split('\t')
-        cleaned_parts = [part.strip('<').strip('>').strip() for part in parts]  # 去除尖括号和空格
+        cleaned_parts = [part.strip('<').strip('>').strip() for part in parts]  # Remove angle brackets and spaces
         triple_str = f"subject: {cleaned_parts[0]}, relation: {cleaned_parts[1]}, object: {cleaned_parts[2]}"
 
     
@@ -255,9 +267,9 @@ class LLM_Processor:
 
 
     def call_api(self, user_prompt: str, system_prompt: str = "", output_json=False) -> str:
-        response = self.generate_text(user_prompt, self.model, output_json=output_json)
+        response = self.generate_text(user_prompt, model=self.model, temperature=0, output_json=output_json)
 
-        if not isinstance(response, str):  ## 如果不是str，则提取response中的内容
+        if not isinstance(response, str):  ## If not str, extract content from response
             response = self.extract_responses(response).strip()
 
         return response.replace("_", " ")
@@ -275,7 +287,7 @@ class LLM_Processor:
                         response = response["data"]["output"]
                 return response
             except (Exception, KeyboardInterrupt) as e:
-                error_count.append(1)  # 记录一次错误
+                error_count.append(1)  # Record one error
                 logger.info(f"LLM request error:{cnt}, {e}")
 
         if sum(error_count) >= self.max_error:

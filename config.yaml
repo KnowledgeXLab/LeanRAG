@@ -1,21 +1,28 @@
-
+# GLM Configuration
 glm:
-  model: "bge_m3"
-  base_url: "http://xxx:8000/v1"
-  embedding_model: "bge_m3"
+  model: 'bge_m3'
+  base_url: 'http://xxx:8000/v1'
+  embedding_model: 'bge_m3'
 
+# DeepSeek Configuration
 deepseek:
-
   # model: "Qwen3-14b"
-  model: "qwen2.5"
+  model: 'qwen2.5'
   # model: "Qwen3-32b"
+  api_key: 'ollama'
+  base_url: 'http://localhost:8001/v1'
 
-  api_key: "ollama"
-  base_url: "http://localhost:8001/v1"
+# Embedding Configuration
+embedding:
+  provider: 'hf-inference' # Options: "hf-inference", "glm", etc.
+
+# HuggingFace Configuration
+huggingface:
+  model: 'BAAI/bge-m3'
+  HF_TOKEN: 'your_huggingface_token_here'
 
 # Model Parameters
 model_params:
   openai_embedding_dim: 1536
   glm_embedding_dim: 1024
   max_token_size: 8192
-

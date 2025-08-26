@@ -1,0 +1,721 @@
+{"triple": "<Coevolution>\t<IN>\t<Development>", "doc_name": "mix_chunk", "source_id": "a3fff8a80c27c855ac5347e84a79c046"}
+{"triple": "<Development>\t<Of>\t<rules>", "doc_name": "mix_chunk", "source_id": "a3fff8a80c27c855ac5347e84a79c046"}
+{"triple": "<Coevolution>\t<Play>\t<Role>", "doc_name": "mix_chunk", "source_id": "a3fff8a80c27c855ac5347e84a79c046"}
+{"triple": "<rules>\t<IN>\t<Agents>", "doc_name": "mix_chunk", "source_id": "a3fff8a80c27c855ac5347e84a79c046"}
+{"triple": "<Reliance>\t<Of>\t<Artificial>", "doc_name": "mix_chunk", "source_id": "c4ffe6a556ea84460934a292ed48e3b5"}
+{"triple": "<Variability>\t<Affect>\t<Reliance>", "doc_name": "mix_chunk", "source_id": "c4ffe6a556ea84460934a292ed48e3b5"}
+{"triple": "<Reliance>\t<ON>\t<Plasticity>", "doc_name": "mix_chunk", "source_id": "c4ffe6a556ea84460934a292ed48e3b5"}
+{"triple": "<The Witch of Atlas>\t<transformation>\t<mother>", "doc_name": "mix_chunk", "source_id": "51a47728c0248557aa8df963e751d497"}
+{"triple": "<Witch>\t<has>\t<surroundings>", "doc_name": "mix_chunk", "source_id": "400761a7eefa73b0c3e71a31cfdc3102"}
+{"triple": "<ITS>\t<relates to>\t<Witch>", "doc_name": "mix_chunk", "source_id": "400761a7eefa73b0c3e71a31cfdc3102"}
+{"triple": "<What is>\t<Significance of>\t<the Witch's Cave AND ITS surroundings>", "doc_name": "mix_chunk", "source_id": "400761a7eefa73b0c3e71a31cfdc3102"}
+{"triple": "<ITS>\t<refers to>\t<Witch's Cave>", "doc_name": "mix_chunk", "source_id": "400761a7eefa73b0c3e71a31cfdc3102"}
+{"triple": "<Of>\t<modification of>\t<Significance>", "doc_name": "mix_chunk", "source_id": "400761a7eefa73b0c3e71a31cfdc3102"}
+{"triple": "<What is>\t<Significance of>\t<the Witch's Cave and ITS surroundings>", "doc_name": "mix_chunk", "source_id": "400761a7eefa73b0c3e71a31cfdc3102"}
+{"triple": "<Cave>\t<is part of>\t<Witch's Cave>", "doc_name": "mix_chunk", "source_id": "400761a7eefa73b0c3e71a31cfdc3102"}
+{"triple": "<Witch>\t<has cave>\t<Cave>", "doc_name": "mix_chunk", "source_id": "400761a7eefa73b0c3e71a31cfdc3102"}
+{"triple": "<Witch>\t<has>\t<Cave>", "doc_name": "mix_chunk", "source_id": "400761a7eefa73b0c3e71a31cfdc3102"}
+{"triple": "<Cave>\t<is part of>\t<Witch's Cave and ITS surroundings>", "doc_name": "mix_chunk", "source_id": "400761a7eefa73b0c3e71a31cfdc3102"}
+{"triple": "<The>\t<defines>\t<Witch>", "doc_name": "mix_chunk", "source_id": "400761a7eefa73b0c3e71a31cfdc3102"}
+{"triple": "<Cave>\t<is associated with>\t<ITS surroundings>", "doc_name": "mix_chunk", "source_id": "400761a7eefa73b0c3e71a31cfdc3102"}
+{"triple": "<Witch>\t<has>\t<the Witch's Cave AND ITS surroundings>", "doc_name": "mix_chunk", "source_id": "400761a7eefa73b0c3e71a31cfdc3102"}
+{"triple": "<Cave>\t<is part of>\t<Witch's Cave and its surroundings>", "doc_name": "mix_chunk", "source_id": "400761a7eefa73b0c3e71a31cfdc3102"}
+{"triple": "<Trees>\t<in>\t<the Street>", "doc_name": "mix_chunk", "source_id": "f82c6d2a6f057104cb1494a320e8d0e1"}
+{"triple": "<No Trees in the Street>\t<its>\t<strengths>", "doc_name": "mix_chunk", "source_id": "f82c6d2a6f057104cb1494a320e8d0e1"}
+{"triple": "<Critical>\t<reception>\t<No Trees in the Street>", "doc_name": "mix_chunk", "source_id": "f82c6d2a6f057104cb1494a320e8d0e1"}
+{"triple": "<No Trees in the Street>\t<has>\t<critical reception>", "doc_name": "mix_chunk", "source_id": "f82c6d2a6f057104cb1494a320e8d0e1"}
+{"triple": "<No Trees in the Street>\t<reflects>\t<strengths>", "doc_name": "mix_chunk", "source_id": "f82c6d2a6f057104cb1494a320e8d0e1"}
+{"triple": "<Reception>\t<of>\t<No Trees in the Street>", "doc_name": "mix_chunk", "source_id": "f82c6d2a6f057104cb1494a320e8d0e1"}
+{"triple": "<No Trees in the Street>\t<reflects>\t<weaknesses>", "doc_name": "mix_chunk", "source_id": "f82c6d2a6f057104cb1494a320e8d0e1"}
+{"triple": "<No Trees in the Street>\t<its>\t<weaknesses>", "doc_name": "mix_chunk", "source_id": "f82c6d2a6f057104cb1494a320e8d0e1"}
+{"triple": "<Voice>\t<actors>\t<Meg Griffin>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<Change>\t<in>\t<voice actors>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<The Change>\t<in>\t<Family Guy>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<Meg Griffin>\t<in>\t<Family Guy>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<Change>\t<for>\t<Meg Griffin>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<Actors>\t<for>\t<Meg Griffin>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<The Change>\t<for>\t<Meg Griffin>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<Reason>\t<behind>\t<The Change>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<Family Guy>\t<character>\t<Meg Griffin>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<The Change>\t<in>\t<voice actors>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<controversies>\t<centered on>\t<Oman Professional League>", "doc_name": "mix_chunk", "source_id": "3ec54c3e12394d5557df48ede7be4e3f"}
+{"triple": "<controversies>\t<surrounding>\t<Oman Professional League>", "doc_name": "mix_chunk", "source_id": "3ec54c3e12394d5557df48ede7be4e3f"}
+{"triple": "<controversies>\t<involving>\t<Oman Professional League>", "doc_name": "mix_chunk", "source_id": "3ec54c3e12394d5557df48ede7be4e3f"}
+{"triple": "<controversies>\t<behind>\t<main reasons>", "doc_name": "mix_chunk", "source_id": "3ec54c3e12394d5557df48ede7be4e3f"}
+{"triple": "<Main>\t<Reasons>\t<controversies>", "doc_name": "mix_chunk", "source_id": "3ec54c3e12394d5557df48ede7be4e3f"}
+{"triple": "<Oman Professional League>\t<had controversies>\t<2014-15 season>", "doc_name": "mix_chunk", "source_id": "3ec54c3e12394d5557df48ede7be4e3f"}
+{"triple": "<Oman>\t<Professional League>\t<controversies>", "doc_name": "mix_chunk", "source_id": "3ec54c3e12394d5557df48ede7be4e3f"}
+{"triple": "<controversies>\t<related to>\t<Oman>", "doc_name": "mix_chunk", "source_id": "3ec54c3e12394d5557df48ede7be4e3f"}
+{"triple": "<controversies>\t<related to>\t<Oman Professional League>", "doc_name": "mix_chunk", "source_id": "3ec54c3e12394d5557df48ede7be4e3f"}
+{"triple": "<controversies>\t<had>\t<main reasons>", "doc_name": "mix_chunk", "source_id": "3ec54c3e12394d5557df48ede7be4e3f"}
+{"triple": "<Season>\t<is impacted by>\t<Major League Baseball strike>", "doc_name": "mix_chunk", "source_id": "4201266ba4c5771c20f20e8bd86f3827"}
+{"triple": "<Strike>\t<is part of>\t<Major League Baseball strike>", "doc_name": "mix_chunk", "source_id": "4201266ba4c5771c20f20e8bd86f3827"}
+{"triple": "<Structure>\t<is of>\t<playoffs>", "doc_name": "mix_chunk", "source_id": "4201266ba4c5771c20f20e8bd86f3827"}
+{"triple": "<Major League Baseball strike>\t<impact>\t<structure of the playoffs>", "doc_name": "mix_chunk", "source_id": "4201266ba4c5771c20f20e8bd86f3827"}
+{"triple": "<Major League Baseball strike>\t<impact>\t<season>", "doc_name": "mix_chunk", "source_id": "4201266ba4c5771c20f20e8bd86f3827"}
+{"triple": "<Playoffs>\t<is impacted by>\t<Major League Baseball strike>", "doc_name": "mix_chunk", "source_id": "4201266ba4c5771c20f20e8bd86f3827"}
+{"triple": "<No Trees in the Street>\t<contribute to>\t<British kitchen sink realism>", "doc_name": "mix_chunk", "source_id": "df990f9384a8cb26a6db6e39cc9dd4b1"}
+{"triple": "<The Film>\t<is>\t<Udhayam NH4>", "doc_name": "mix_chunk", "source_id": "6b8a5ee91172d4537dd03661fdd9071e"}
+{"triple": "<The Connection>\t<is between>\t<Ashrita Shetty and Udhayam NH4>", "doc_name": "mix_chunk", "source_id": "6b8a5ee91172d4537dd03661fdd9071e"}
+{"triple": "<Ashrita Shetty>\t<Connection>\t<Udhayam>", "doc_name": "mix_chunk", "source_id": "6b8a5ee91172d4537dd03661fdd9071e"}
+{"triple": "<Udhayam>\t<is>\t<Film>", "doc_name": "mix_chunk", "source_id": "6b8a5ee91172d4537dd03661fdd9071e"}
+{"triple": "<Primary challenge>\t<is in>\t<determining transition>", "doc_name": "mix_chunk", "source_id": "9cf3ad9ac8306c48a5a1ebaffe403e19"}
+{"triple": "<Primary challenge>\t<is in>\t<numerical determination>", "doc_name": "mix_chunk", "source_id": "9cf3ad9ac8306c48a5a1ebaffe403e19"}
+{"triple": "<Primary challenge>\t<is>\t<determining nuclear liquid-gas transition>", "doc_name": "mix_chunk", "source_id": "9cf3ad9ac8306c48a5a1ebaffe403e19"}
+{"triple": "<Nuclear>\t<is type of>\t<phase>", "doc_name": "mix_chunk", "source_id": "9cf3ad9ac8306c48a5a1ebaffe403e19"}
+{"triple": "<Gas>\t<to>\t<nuclear phase>", "doc_name": "mix_chunk", "source_id": "9cf3ad9ac8306c48a5a1ebaffe403e19"}
+{"triple": "<Transition>\t<is from>\t<hadron gas to nuclear phase>", "doc_name": "mix_chunk", "source_id": "9cf3ad9ac8306c48a5a1ebaffe403e19"}
+{"triple": "<Primary challenge>\t<of>\t<numerically determining transition>", "doc_name": "mix_chunk", "source_id": "9cf3ad9ac8306c48a5a1ebaffe403e19"}
+{"triple": "<Lattice QCD>\t<is used in>\t<numerical determination>", "doc_name": "mix_chunk", "source_id": "9cf3ad9ac8306c48a5a1ebaffe403e19"}
+{"triple": "<The System>\t<utilize>\t<layout features>", "doc_name": "mix_chunk", "source_id": "1e33063e2aef4ab63fa64fbbc4e454bd"}
+{"triple": "<How>\t<does>\t<the system>", "doc_name": "mix_chunk", "source_id": "1e33063e2aef4ab63fa64fbbc4e454bd"}
+{"triple": "<The System>\t<utilize>\t<topical features>", "doc_name": "mix_chunk", "source_id": "1e33063e2aef4ab63fa64fbbc4e454bd"}
+{"triple": "<The System>\t<in>\t<propaganda detection>", "doc_name": "mix_chunk", "source_id": "1e33063e2aef4ab63fa64fbbc4e454bd"}
+{"triple": "<The System>\t<utilize>\t<linguistic features>", "doc_name": "mix_chunk", "source_id": "1e33063e2aef4ab63fa64fbbc4e454bd"}
+{"triple": "<Origin>\t<of>\t<Billiken>", "doc_name": "mix_chunk", "source_id": "c14e66431619035727689626f4838c63"}
+{"triple": "<In Modern Times>\t<used>\t<Billiken>", "doc_name": "mix_chunk", "source_id": "c14e66431619035727689626f4838c63"}
+{"triple": "<Used>\t<has been used in>\t<Modern Times>", "doc_name": "mix_chunk", "source_id": "c14e66431619035727689626f4838c63"}
+{"triple": "<Billiken>\t<used in>\t<Modern Times>", "doc_name": "mix_chunk", "source_id": "c14e66431619035727689626f4838c63"}
+{"triple": "<Modern Times>\t<used>\t<Billiken>", "doc_name": "mix_chunk", "source_id": "c14e66431619035727689626f4838c63"}
+{"triple": "<What is>\t<origin of>\t<Billiken>", "doc_name": "mix_chunk", "source_id": "c14e66431619035727689626f4838c63"}
+{"triple": "<His>\t<contributions to>\t<art>", "doc_name": "mix_chunk", "source_id": "6c59eeb3670a5f2a3e3c3e8f3169c217"}
+{"triple": "<Auguste Levêque>\t<WAS>\t<Who>", "doc_name": "mix_chunk", "source_id": "6c59eeb3670a5f2a3e3c3e8f3169c217"}
+{"triple": "<After>\t<commercial failure>\t<change in career trajectory>", "doc_name": "mix_chunk", "source_id": "2ab033eca8795d0aef51f58485228d1e"}
+{"triple": "<Did>\t<Alex Cox's career trajectory change>\t<after commercial failure of his film Walker>", "doc_name": "mix_chunk", "source_id": "2ab033eca8795d0aef51f58485228d1e"}
+{"triple": "<Failure>\t<of his film Walker>\t<commercial>", "doc_name": "mix_chunk", "source_id": "2ab033eca8795d0aef51f58485228d1e"}
+{"triple": "<How>\t<did Alex Cox's career trajectory change>\t<after commercial failure of his film Walker>", "doc_name": "mix_chunk", "source_id": "2ab033eca8795d0aef51f58485228d1e"}
+{"triple": "<Career>\t<change after commercial failure>\t<his film Walker>", "doc_name": "mix_chunk", "source_id": "2ab033eca8795d0aef51f58485228d1e"}
+{"triple": "<Cox's>\t<career trajectory changed after failure of>\t<his film Walker>", "doc_name": "mix_chunk", "source_id": "2ab033eca8795d0aef51f58485228d1e"}
+{"triple": "<Alex Cox>\t<did career trajectory change after>\t<commercial failure of his film Walker>", "doc_name": "mix_chunk", "source_id": "2ab033eca8795d0aef51f58485228d1e"}
+{"triple": "<Cox's>\t<career trajectory changed after>\t<commercial failure>", "doc_name": "mix_chunk", "source_id": "2ab033eca8795d0aef51f58485228d1e"}
+{"triple": "<Change>\t<after>\t<commercial failure of his film Walker>", "doc_name": "mix_chunk", "source_id": "2ab033eca8795d0aef51f58485228d1e"}
+{"triple": "<He>\t<Take On>\t<notable roles>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<What>\t<was>\t<transition>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<Robert Day>\t<Transition>\t<British film industry to Hollywood>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<Robert Day>\t<work>\t<British film industry>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<British Film>\t<industry>\t<Robert Day's transition>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<Productions>\t<take on roles>\t<he>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<Transition>\t<was>\t<like>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<What>\t<did>\t<take on>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<Hollywood>\t<Transition to>\t<Robert Day's work>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<Working>\t<in>\t<British film industry>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<Hollywood>\t<directing in>\t<Robert Day>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<The>\t<is a modifier of>\t<Spiel des Jahres award>", "doc_name": "mix_chunk", "source_id": "ec0825f11ecc6238ae07e20c74768164"}
+{"triple": "<Passages>\t<mention>\t<Spiel des Jahres award>", "doc_name": "mix_chunk", "source_id": "ec0825f11ecc6238ae07e20c74768164"}
+{"triple": "<Significance>\t<is of>\t<Spiel des Jahres award>", "doc_name": "mix_chunk", "source_id": "ec0825f11ecc6238ae07e20c74768164"}
+{"triple": "<What is>\t<the significance>\t<Spiel des Jahres award>", "doc_name": "mix_chunk", "source_id": "ec0825f11ecc6238ae07e20c74768164"}
+{"triple": "<What is>\t<is>\t<Significance>", "doc_name": "mix_chunk", "source_id": "ec0825f11ecc6238ae07e20c74768164"}
+{"triple": "<Spiel des Jahres>\t<is part of>\t<Spiel des Jahres award>", "doc_name": "mix_chunk", "source_id": "ec0825f11ecc6238ae07e20c74768164"}
+{"triple": "<Award>\t<is>\t<Spiel des Jahres award>", "doc_name": "mix_chunk", "source_id": "ec0825f11ecc6238ae07e20c74768164"}
+{"triple": "<Of>\t<Spiel des Jahres award>\t<Significance>", "doc_name": "mix_chunk", "source_id": "ec0825f11ecc6238ae07e20c74768164"}
+{"triple": "<Wale>\t<research>\t<key areas>", "doc_name": "mix_chunk", "source_id": "8e3ccd436595c25ada7f776d5114cdd2"}
+{"triple": "<Key>\t<areas>\t<research>", "doc_name": "mix_chunk", "source_id": "8e3ccd436595c25ada7f776d5114cdd2"}
+{"triple": "<Academia>\t<from>\t<journalism>", "doc_name": "mix_chunk", "source_id": "8e3ccd436595c25ada7f776d5114cdd2"}
+{"triple": "<Research>\t<areas>\t<key areas>", "doc_name": "mix_chunk", "source_id": "8e3ccd436595c25ada7f776d5114cdd2"}
+{"triple": "<Wale>\t<career>\t<evolved from journalism to academia>", "doc_name": "mix_chunk", "source_id": "8e3ccd436595c25ada7f776d5114cdd2"}
+{"triple": "<How>\t<career evolved>\t<from journalism to academia>", "doc_name": "mix_chunk", "source_id": "8e3ccd436595c25ada7f776d5114cdd2"}
+{"triple": "<Career>\t<evolved from>\t<journalism to academia>", "doc_name": "mix_chunk", "source_id": "8e3ccd436595c25ada7f776d5114cdd2"}
+{"triple": "<Role>\t<in>\t<The Opposition>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Edward I>\t<is opposed by>\t<Humphrey de Bohun, 3rd Earl of Hereford>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<The Opposition>\t<over>\t<Confirmatio Cartarum>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<The Opposition>\t<To>\t<King Edward I>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Humphrey>\t<De>\t<Bohun>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Role>\t<play by>\t<Humphrey de Bohun, 3rd Earl of Hereford>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Humphrey de Bohun, 3rd Earl of Hereford>\t<did>\t<play Role>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Humphrey de Bohun, 3rd Earl of Hereford>\t<play>\t<Role>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<De>\t<prefix of>\t<Bohun>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Earl of Hereford>\t<title of>\t<Humphrey de Bohun>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Industry>\t<has connection with>\t<Tom Ford>", "doc_name": "mix_chunk", "source_id": "5d3aa695137b08ed1d7cf5c7ecafd25d"}
+{"triple": "<Tom Ford>\t<is connected to>\t<Fashion Industry>", "doc_name": "mix_chunk", "source_id": "5d3aa695137b08ed1d7cf5c7ecafd25d"}
+{"triple": "<Ford>\t<is in connection with>\t<Fashion Industry>", "doc_name": "mix_chunk", "source_id": "5d3aa695137b08ed1d7cf5c7ecafd25d"}
+{"triple": "<Connection>\t<between>\t<Tom Ford and Fashion Industry>", "doc_name": "mix_chunk", "source_id": "5d3aa695137b08ed1d7cf5c7ecafd25d"}
+{"triple": "<The Connection>\t<between>\t<Tom Ford and Fashion Industry>", "doc_name": "mix_chunk", "source_id": "5d3aa695137b08ed1d7cf5c7ecafd25d"}
+{"triple": "<Text>\t<mentions>\t<RKKY interaction>", "doc_name": "mix_chunk", "source_id": "0c0ee901907e90118f36aa002b422116"}
+{"triple": "<What is>\t<significance of>\t<RKKY interaction>", "doc_name": "mix_chunk", "source_id": "0c0ee901907e90118f36aa002b422116"}
+{"triple": "<Significance>\t<related to>\t<systems discussed>", "doc_name": "mix_chunk", "source_id": "0c0ee901907e90118f36aa002b422116"}
+{"triple": "<New Brunswick>\t<in>\t<Canada>", "doc_name": "mix_chunk", "source_id": "5428f604887b21244029a2bcdde8130f"}
+{"triple": "<CIBX-FM>\t<in>\t<Fredericton>", "doc_name": "mix_chunk", "source_id": "5428f604887b21244029a2bcdde8130f"}
+{"triple": "<What is>\t<Programming>\t<?>", "doc_name": "mix_chunk", "source_id": "5428f604887b21244029a2bcdde8130f"}
+{"triple": "<Fredericton>\t<in>\t<New Brunswick>", "doc_name": "mix_chunk", "source_id": "5428f604887b21244029a2bcdde8130f"}
+{"triple": "<CIBX-FM>\t<Programming FOCUS>\t<?>", "doc_name": "mix_chunk", "source_id": "5428f604887b21244029a2bcdde8130f"}
+{"triple": "<Context>\t<is of>\t<Koh Sotin District>", "doc_name": "mix_chunk", "source_id": "7203567aaf9641677ec7e6a3d8d0dd63"}
+{"triple": "<What is>\t<related to>\t<historical context>", "doc_name": "mix_chunk", "source_id": "7203567aaf9641677ec7e6a3d8d0dd63"}
+{"triple": "<Koh Sotin District>\t<is in>\t<Cambodia>", "doc_name": "mix_chunk", "source_id": "7203567aaf9641677ec7e6a3d8d0dd63"}
+{"triple": "<Koh Sotin District>\t<is a>\t<District>", "doc_name": "mix_chunk", "source_id": "7203567aaf9641677ec7e6a3d8d0dd63"}
+{"triple": "<Performance>\t<Of>\t<System>", "doc_name": "mix_chunk", "source_id": "2d1dfee0b0976b3ce95062c4f21bc1c5"}
+{"triple": "<Fine>\t<Play>\t<Role>", "doc_name": "mix_chunk", "source_id": "2d1dfee0b0976b3ce95062c4f21bc1c5"}
+{"triple": "<Qa>\t<In>\t<System>", "doc_name": "mix_chunk", "source_id": "2d1dfee0b0976b3ce95062c4f21bc1c5"}
+{"triple": "<Role>\t<In>\t<Performance>", "doc_name": "mix_chunk", "source_id": "2d1dfee0b0976b3ce95062c4f21bc1c5"}
+{"triple": "<Propaganda Techniques>\t<IN>\t<FLC Task>", "doc_name": "mix_chunk", "source_id": "c1346d0c25269908aafbf3b351990172"}
+{"triple": "<The System>\t<Handle>\t<The complexity of propaganda techniques in the FLC task>", "doc_name": "mix_chunk", "source_id": "c1346d0c25269908aafbf3b351990172"}
+{"triple": "<Complexity>\t<Of>\t<Propaganda Techniques>", "doc_name": "mix_chunk", "source_id": "c1346d0c25269908aafbf3b351990172"}
+{"triple": "<How>\t<Does>\t<The System Handle>", "doc_name": "mix_chunk", "source_id": "c1346d0c25269908aafbf3b351990172"}
+{"triple": "<success>\t<depends on>\t<dedication>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<Sport>\t<is>\t<bull riding>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<consistency>\t<applies to>\t<bull riding>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<consistency>\t<contributes to>\t<success>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<success>\t<depends on>\t<consistency>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<success>\t<is in>\t<sport>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<dedication>\t<applies to>\t<bull riding>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<Guilherme Marchi>\t<is involved in>\t<bull riding>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<Guilherme Marchi>\t<is a>\t<bull rider>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<dedication>\t<contributes to>\t<success>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<Guilherme Marchi>\t<has>\t<consistency>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<Bull riding>\t<is a>\t<sport>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<Guilherme Marchi>\t<has>\t<dedication>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<his>\t<refers to>\t<Guilherme Marchi>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<The Primary>\t<leads to>\t<two-stage Kondo screening>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<is in a system>\t<with a superconducting lead>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<SC>\t<is a type of>\t<lead>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<Lead>\t<coupled to>\t<quantum dots>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<involves>\t<coupling to superconducting lead>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<is in a>\t<two-stage Kondo screening>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<With>\t<superconducting lead>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<is in>\t<a system with two quantum dots>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<Lead>\t<is>\t<superconducting (SC)>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<has>\t<two-stage Kondo screening>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<involves>\t<two-stage Kondo screening>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<is in a>\t<superconducting coupled structure>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<Primary>\t<mechanism>\t<two-stage Kondo screening>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<is coupled to>\t<superconducting lead>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<leads to>\t<two-stage Kondo screening>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<is in>\t<a system with a superconducting lead>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<has>\t<quantum dots>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<is in a system>\t<with two quantum dots>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<With>\t<two quantum dots>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<System>\t<is composed of>\t<two quantum dots>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<Exploration>\t<Contributors to>\t<Sebastian Cabot>", "doc_name": "mix_chunk", "source_id": "89e1b30ab6cf4dc2cf7686effef74d57"}
+{"triple": "<The New World>\t<was explored by>\t<Sebastian Cabot>", "doc_name": "mix_chunk", "source_id": "89e1b30ab6cf4dc2cf7686effef74d57"}
+{"triple": "<Sebastian Cabot>\t<contributions to>\t<Exploration of the New World>", "doc_name": "mix_chunk", "source_id": "89e1b30ab6cf4dc2cf7686effef74d57"}
+{"triple": "<Differences>\t<IN>\t<roles and responsibilities>", "doc_name": "mix_chunk", "source_id": "b82681766d0f6f8d7460a1cb300c78b9"}
+{"triple": "<Archibald Acheson, 4th Earl of Gosford>\t<WERE>\t<key differences in roles and responsibilities>", "doc_name": "mix_chunk", "source_id": "b82681766d0f6f8d7460a1cb300c78b9"}
+{"triple": "<Archibald Acheson, 4th Earl of Gosford>\t<compared To>\t<his predecessors>", "doc_name": "mix_chunk", "source_id": "b82681766d0f6f8d7460a1cb300c78b9"}
+{"triple": "<The Social>\t<AND>\t<Economic>", "doc_name": "mix_chunk", "source_id": "2fbcd37d560cef90c9d2922069b4c057"}
+{"triple": "<Structures>\t<of>\t<Europe>", "doc_name": "mix_chunk", "source_id": "2fbcd37d560cef90c9d2922069b4c057"}
+{"triple": "<The Black Death>\t<impact>\t<the social and economic structures of Europe>", "doc_name": "mix_chunk", "source_id": "2fbcd37d560cef90c9d2922069b4c057"}
+{"triple": "<Folgore Division>\t<is part of>\t<World War II>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<World War II>\t<include>\t<Folgore Division>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<The Film>\t<is of>\t<Context>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<The Film>\t<is>\t<Folgore Division>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<The Film>\t<is in context of>\t<World War II>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<Event>\t<is of>\t<The Film>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<World War II>\t<include>\t<Event>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<The Film>\t<show significance>\t<Event>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<The Film>\t<depict>\t<historical event>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<Event>\t<is significant>\t<in World War II>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<Event>\t<is in>\t<World War II>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<World War II>\t<contain>\t<Folgore Division>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<The Film>\t<relate to>\t<World War II>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<The Film>\t<named after>\t<Folgore Division>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<Event>\t<depicted by>\t<The Film>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<World War II>\t<include>\t<The Film>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<Event>\t<is>\t<historical event>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<World War II>\t<contain>\t<Event>", "doc_name": "mix_chunk", "source_id": "81214c90f6fd794dbc7ddb39f78d7763"}
+{"triple": "<Contribution>\t<was>\t<aiding Jews during World War II>", "doc_name": "mix_chunk", "source_id": "72f72325e7b8a3184dd012b628d95dc1"}
+{"triple": "<Jews>\t<were aided by>\t<Gino Bartali>", "doc_name": "mix_chunk", "source_id": "72f72325e7b8a3184dd012b628d95dc1"}
+{"triple": "<Gino Bartali>\t<contribution>\t<aiding Jews during World War II>", "doc_name": "mix_chunk", "source_id": "72f72325e7b8a3184dd012b628d95dc1"}
+{"triple": "<World War II>\t<context>\t<aiding Jews>", "doc_name": "mix_chunk", "source_id": "72f72325e7b8a3184dd012b628d95dc1"}
+{"triple": "<Gino Bartali>\t<aided>\t<Jews>", "doc_name": "mix_chunk", "source_id": "72f72325e7b8a3184dd012b628d95dc1"}
+{"triple": "<Career>\t<IN>\t<Argentine>", "doc_name": "mix_chunk", "source_id": "45eaeca23b320509c0eda0f2dc3cb81d"}
+{"triple": "<How>\t<Regarding>\t<Professional Football>", "doc_name": "mix_chunk", "source_id": "45eaeca23b320509c0eda0f2dc3cb81d"}
+{"triple": "<How>\t<Concerns>\t<Career>", "doc_name": "mix_chunk", "source_id": "45eaeca23b320509c0eda0f2dc3cb81d"}
+{"triple": "<Serrano>\t<Has>\t<Career>", "doc_name": "mix_chunk", "source_id": "45eaeca23b320509c0eda0f2dc3cb81d"}
+{"triple": "<Professional Football>\t<Involves>\t<Career>", "doc_name": "mix_chunk", "source_id": "45eaeca23b320509c0eda0f2dc3cb81d"}
+{"triple": "<Argentine>\t<Of>\t<Professional Football>", "doc_name": "mix_chunk", "source_id": "45eaeca23b320509c0eda0f2dc3cb81d"}
+{"triple": "<Career>\t<IN>\t<Professional Football>", "doc_name": "mix_chunk", "source_id": "45eaeca23b320509c0eda0f2dc3cb81d"}
+{"triple": "<Maximiliano>\t<Has>\t<Career>", "doc_name": "mix_chunk", "source_id": "45eaeca23b320509c0eda0f2dc3cb81d"}
+{"triple": "<The>\t<invention of>\t<bag-in-box system>", "doc_name": "mix_chunk", "source_id": "09d27d6d1758b268222852e22dd9d059"}
+{"triple": "<Box>\t<part of>\t<bag-in-box system>", "doc_name": "mix_chunk", "source_id": "09d27d6d1758b268222852e22dd9d059"}
+{"triple": "<Did>\t<the invention>\t<revolutionize>", "doc_name": "mix_chunk", "source_id": "09d27d6d1758b268222852e22dd9d059"}
+{"triple": "<How>\t<did>\t<the invention>", "doc_name": "mix_chunk", "source_id": "09d27d6d1758b268222852e22dd9d059"}
+{"triple": "<Bag>\t<part of>\t<bag-in-box system>", "doc_name": "mix_chunk", "source_id": "09d27d6d1758b268222852e22dd9d059"}
+{"triple": "<Invention>\t<of>\t<bag-in-box system>", "doc_name": "mix_chunk", "source_id": "09d27d6d1758b268222852e22dd9d059"}
+{"triple": "<Industry>\t<revolutionized by>\t<bag-in-box system>", "doc_name": "mix_chunk", "source_id": "09d27d6d1758b268222852e22dd9d059"}
+{"triple": "<System>\t<is>\t<bag-in-box>", "doc_name": "mix_chunk", "source_id": "09d27d6d1758b268222852e22dd9d059"}
+{"triple": "<Bag-in-box>\t<part of>\t<system>", "doc_name": "mix_chunk", "source_id": "09d27d6d1758b268222852e22dd9d059"}
+{"triple": "<The Model>\t<perform>\t<on multilingual datasets>", "doc_name": "mix_chunk", "source_id": "f96720e75e93747eac967c5b45c05001"}
+{"triple": "<Model>\t<perform>\t<on multilingual datasets>", "doc_name": "mix_chunk", "source_id": "f96720e75e93747eac967c5b45c05001"}
+{"triple": "<Mechanism>\t<contributes to>\t<the model's performance>", "doc_name": "mix_chunk", "source_id": "2985fd159d20a008344654d4e3482dfa"}
+{"triple": "<Juan de Courten>\t<play>\t<role>", "doc_name": "mix_chunk", "source_id": "68a72c8034043b1e9d8bec5d76f96523"}
+{"triple": "<Spanish>\t<military>\t<in question>", "doc_name": "mix_chunk", "source_id": "68a72c8034043b1e9d8bec5d76f96523"}
+{"triple": "<Juan de Courten>\t<during>\t<18th century>", "doc_name": "mix_chunk", "source_id": "68a72c8034043b1e9d8bec5d76f96523"}
+{"triple": "<The>\t<18th century>\t<18th>", "doc_name": "mix_chunk", "source_id": "68a72c8034043b1e9d8bec5d76f96523"}
+{"triple": "<Role>\t<of>\t<Juan de Courten>", "doc_name": "mix_chunk", "source_id": "68a72c8034043b1e9d8bec5d76f96523"}
+{"triple": "<What>\t<question about>\t<role>", "doc_name": "mix_chunk", "source_id": "68a72c8034043b1e9d8bec5d76f96523"}
+{"triple": "<The>\t<military>\t<Spanish>", "doc_name": "mix_chunk", "source_id": "68a72c8034043b1e9d8bec5d76f96523"}
+{"triple": "<Juan de Courten>\t<in>\t<military>", "doc_name": "mix_chunk", "source_id": "68a72c8034043b1e9d8bec5d76f96523"}
+{"triple": "<Battle of María>\t<WAS>\t<The Outcome>", "doc_name": "mix_chunk", "source_id": "3ae6b0ac66d39e83e58876eb34e3c6ad"}
+{"triple": "<The Outcome>\t<Of>\t<Battle of María>", "doc_name": "mix_chunk", "source_id": "3ae6b0ac66d39e83e58876eb34e3c6ad"}
+{"triple": "<The Outcome>\t<The>\t<Battle of María>", "doc_name": "mix_chunk", "source_id": "3ae6b0ac66d39e83e58876eb34e3c6ad"}
+{"triple": "<Battle of María>\t<Of>\t<María>", "doc_name": "mix_chunk", "source_id": "3ae6b0ac66d39e83e58876eb34e3c6ad"}
+{"triple": "<Lady>\t<is part of>\t<Group Portrait with a Lady>", "doc_name": "mix_chunk", "source_id": "c9ae215d2c5f2e6fadd2ef5b7fb3c136"}
+{"triple": "<Group Portrait with a Lady>\t<is significant in>\t<German-French cinema>", "doc_name": "mix_chunk", "source_id": "c9ae215d2c5f2e6fadd2ef5b7fb3c136"}
+{"triple": "<The Film>\t<is>\t<Group Portrait with a Lady>", "doc_name": "mix_chunk", "source_id": "c9ae215d2c5f2e6fadd2ef5b7fb3c136"}
+{"triple": "<Group Portrait>\t<is part of>\t<Group Portrait with a Lady>", "doc_name": "mix_chunk", "source_id": "c9ae215d2c5f2e6fadd2ef5b7fb3c136"}
+{"triple": "<Group Portrait with a Lady>\t<has significance in>\t<German-French cinema>", "doc_name": "mix_chunk", "source_id": "c9ae215d2c5f2e6fadd2ef5b7fb3c136"}
+{"triple": "<What is>\t<the significance of>\t<Group Portrait with a Lady>", "doc_name": "mix_chunk", "source_id": "c9ae215d2c5f2e6fadd2ef5b7fb3c136"}
+{"triple": "<French>\t<and>\t<German>", "doc_name": "mix_chunk", "source_id": "c9ae215d2c5f2e6fadd2ef5b7fb3c136"}
+{"triple": "<Cinema>\t<is the context>\t<German-French>", "doc_name": "mix_chunk", "source_id": "c9ae215d2c5f2e6fadd2ef5b7fb3c136"}
+{"triple": "<Group Portrait with a Lady>\t<is in the context of>\t<German-French cinema>", "doc_name": "mix_chunk", "source_id": "c9ae215d2c5f2e6fadd2ef5b7fb3c136"}
+{"triple": "<Contexts>\t<are>\t<Sports leagues>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Eastern Division>\t<is a>\t<Division>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Contexts>\t<are>\t<Military contexts>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Eastern>\t<is in>\t<Division>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Eastern Division>\t<is in>\t<Military contexts>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<What>\t<are>\t<The implications>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Contexts>\t<are in>\t<Various>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Sports>\t<has>\t<Leagues>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Eastern>\t<is a>\t<Division>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Contexts>\t<are of>\t<Eastern Division>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Eastern Division>\t<is in>\t<Sports leagues>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Various>\t<are>\t<sports leagues>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Military>\t<is a>\t<Context>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Various>\t<are>\t<military contexts>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Contexts>\t<are>\t<Various>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Various>\t<are>\t<Contexts>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Loop>\t<part of>\t<human-AI loop approach>", "doc_name": "mix_chunk", "source_id": "99b526e7ef1daae37b001a0ddfc9ec97"}
+{"triple": "<Approach>\t<includes>\t<human-AI loop>", "doc_name": "mix_chunk", "source_id": "99b526e7ef1daae37b001a0ddfc9ec97"}
+{"triple": "<AI>\t<part of>\t<human-AI loop approach>", "doc_name": "mix_chunk", "source_id": "99b526e7ef1daae37b001a0ddfc9ec97"}
+{"triple": "<Model>\t<contribute to>\t<effectiveness of human-AI loop approach>", "doc_name": "mix_chunk", "source_id": "99b526e7ef1daae37b001a0ddfc9ec97"}
+{"triple": "<Human>\t<part of>\t<human-AI loop approach>", "doc_name": "mix_chunk", "source_id": "99b526e7ef1daae37b001a0ddfc9ec97"}
+{"triple": "<How>\t<contribute to>\t<effectiveness of human-AI loop approach>", "doc_name": "mix_chunk", "source_id": "99b526e7ef1daae37b001a0ddfc9ec97"}
+{"triple": "<The Goodies>\t<television series>\t<series>", "doc_name": "mix_chunk", "source_id": "af21294563047dff651a14ca3c25d897"}
+{"triple": "<The Goodies>\t<utilize>\t<Techniques>", "doc_name": "mix_chunk", "source_id": "af21294563047dff651a14ca3c25d897"}
+{"triple": "<The Goodies>\t<has>\t<Production>", "doc_name": "mix_chunk", "source_id": "af21294563047dff651a14ca3c25d897"}
+{"triple": "<ITS>\t<refer to>\t<Production>", "doc_name": "mix_chunk", "source_id": "af21294563047dff651a14ca3c25d897"}
+{"triple": "<Techniques>\t<in>\t<Production>", "doc_name": "mix_chunk", "source_id": "af21294563047dff651a14ca3c25d897"}
+{"triple": "<Series>\t<type>\t<Television>", "doc_name": "mix_chunk", "source_id": "af21294563047dff651a14ca3c25d897"}
+{"triple": "<Of>\t<related to>\t<The Horse>", "doc_name": "mix_chunk", "source_id": "b20a3cda892b9ec2c300e731685d3eb6"}
+{"triple": "<Charisma>\t<is a>\t<Horse>", "doc_name": "mix_chunk", "source_id": "b20a3cda892b9ec2c300e731685d3eb6"}
+{"triple": "<WHAT>\t<WERE>\t<some achievements>", "doc_name": "mix_chunk", "source_id": "b20a3cda892b9ec2c300e731685d3eb6"}
+{"triple": "<Some>\t<Of>\t<The Horse>", "doc_name": "mix_chunk", "source_id": "b20a3cda892b9ec2c300e731685d3eb6"}
+{"triple": "<Horse>\t<is a>\t<The Horse>", "doc_name": "mix_chunk", "source_id": "b20a3cda892b9ec2c300e731685d3eb6"}
+{"triple": "<The Horse>\t<Of>\t<Charisma>", "doc_name": "mix_chunk", "source_id": "b20a3cda892b9ec2c300e731685d3eb6"}
+{"triple": "<John Ranelagh>\t<play role in>\t<establishment of Channel 4 in UK>", "doc_name": "mix_chunk", "source_id": "60283a7e82343fd29038e294b73baa0d"}
+{"triple": "<Develop>\t<in>\t<historically>", "doc_name": "mix_chunk", "source_id": "a66512fa54fd1b1f2ac3523a613c873d"}
+{"triple": "<The Concept>\t<develop>\t<British subjecthood>", "doc_name": "mix_chunk", "source_id": "a66512fa54fd1b1f2ac3523a613c873d"}
+{"triple": "<Concept>\t<of>\t<British subjecthood>", "doc_name": "mix_chunk", "source_id": "a66512fa54fd1b1f2ac3523a613c873d"}
+{"triple": "<How>\t<perform>\t<standard word-similarity and word-analogy tests compared to other methods>", "doc_name": "mix_chunk", "source_id": "51a8e0f56ed0ae6c8eaba6e897e14f5b"}
+{"triple": "<Tests>\t<are>\t<standard word-similarity and word-analogy>", "doc_name": "mix_chunk", "source_id": "51a8e0f56ed0ae6c8eaba6e897e14f5b"}
+{"triple": "<Method>\t<compared to>\t<other methods>", "doc_name": "mix_chunk", "source_id": "51a8e0f56ed0ae6c8eaba6e897e14f5b"}
+{"triple": "<Method>\t<perform>\t<in standard word-similarity and word-analogy tests>", "doc_name": "mix_chunk", "source_id": "51a8e0f56ed0ae6c8eaba6e897e14f5b"}
+{"triple": "<Etymology>\t<of>\t<Salamá>", "doc_name": "mix_chunk", "source_id": "55e7d4248bde90ab4bf4cb751f9af543"}
+{"triple": "<WHAT>\t<is>\t<The Etymology of the Name Salamá>", "doc_name": "mix_chunk", "source_id": "55e7d4248bde90ab4bf4cb751f9af543"}
+{"triple": "<is>\t<a query for>\t<Salamá>", "doc_name": "mix_chunk", "source_id": "55e7d4248bde90ab4bf4cb751f9af543"}
+{"triple": "<Of>\t<application>\t<Salamá>", "doc_name": "mix_chunk", "source_id": "55e7d4248bde90ab4bf4cb751f9af543"}
+{"triple": "<Development>\t<of>\t<Salamá>", "doc_name": "mix_chunk", "source_id": "55e7d4248bde90ab4bf4cb751f9af543"}
+{"triple": "<Events>\t<shaped>\t<Development>", "doc_name": "mix_chunk", "source_id": "55e7d4248bde90ab4bf4cb751f9af543"}
+{"triple": "<The>\t<Etymology of>\t<Salamá>", "doc_name": "mix_chunk", "source_id": "55e7d4248bde90ab4bf4cb751f9af543"}
+{"triple": "<The Name>\t<is>\t<Salamá>", "doc_name": "mix_chunk", "source_id": "55e7d4248bde90ab4bf4cb751f9af543"}
+{"triple": "<The Name>\t<has Etymology>\t<Salamá>", "doc_name": "mix_chunk", "source_id": "55e7d4248bde90ab4bf4cb751f9af543"}
+{"triple": "<Site>\t<Affect>\t<State Of indeno[1,2-a]fluorene (5)>", "doc_name": "mix_chunk", "source_id": "05c00021c05242fbd00b51b8b44ad52a"}
+{"triple": "<How>\t<Does>\t<Adsorption Site>", "doc_name": "mix_chunk", "source_id": "05c00021c05242fbd00b51b8b44ad52a"}
+{"triple": "<Adsorption>\t<has a>\t<Site>", "doc_name": "mix_chunk", "source_id": "05c00021c05242fbd00b51b8b44ad52a"}
+{"triple": "<State>\t<Of>\t<indeno[1,2-a]fluorene (5)>", "doc_name": "mix_chunk", "source_id": "05c00021c05242fbd00b51b8b44ad52a"}
+{"triple": "<Fluorene>\t<is a part of>\t<indeno[1,2-a]fluorene (5)>", "doc_name": "mix_chunk", "source_id": "05c00021c05242fbd00b51b8b44ad52a"}
+{"triple": "<How>\t<compare>\t<view>", "doc_name": "mix_chunk", "source_id": "25b11a90f44fc1cf1417561ea18264a3"}
+{"triple": "<View>\t<of>\t<the aristocracy>", "doc_name": "mix_chunk", "source_id": "25b11a90f44fc1cf1417561ea18264a3"}
+{"triple": "<S>\t<view of>\t<aristocracy>", "doc_name": "mix_chunk", "source_id": "25b11a90f44fc1cf1417561ea18264a3"}
+{"triple": "<from>\t<difference>\t<comparison>", "doc_name": "mix_chunk", "source_id": "25b11a90f44fc1cf1417561ea18264a3"}
+{"triple": "<Does>\t<view>\t<the aristocracy>", "doc_name": "mix_chunk", "source_id": "25b11a90f44fc1cf1417561ea18264a3"}
+{"triple": "<The>\t<view of>\t<aristocracy>", "doc_name": "mix_chunk", "source_id": "25b11a90f44fc1cf1417561ea18264a3"}
+{"triple": "<Aristocracy>\t<view>\t<aristocracy>", "doc_name": "mix_chunk", "source_id": "25b11a90f44fc1cf1417561ea18264a3"}
+{"triple": "<Aliens Act>\t<had impact on>\t<British subject>", "doc_name": "mix_chunk", "source_id": "e551eaebb08d3e5232fb0770bb27248c"}
+{"triple": "<Aliens>\t<status of impacted by>\t<Aliens Act>", "doc_name": "mix_chunk", "source_id": "e551eaebb08d3e5232fb0770bb27248c"}
+{"triple": "<Aliens Act>\t<had impact on>\t<British subject status>", "doc_name": "mix_chunk", "source_id": "e551eaebb08d3e5232fb0770bb27248c"}
+{"triple": "<Aliens Act>\t<impact on>\t<British subject>", "doc_name": "mix_chunk", "source_id": "e551eaebb08d3e5232fb0770bb27248c"}
+{"triple": "<British>\t<subject impacted by>\t<Aliens Act>", "doc_name": "mix_chunk", "source_id": "e551eaebb08d3e5232fb0770bb27248c"}
+{"triple": "<ACT>\t<had impact on>\t<British subject status>", "doc_name": "mix_chunk", "source_id": "e551eaebb08d3e5232fb0770bb27248c"}
+{"triple": "<ACT>\t<impact on>\t<British subject>", "doc_name": "mix_chunk", "source_id": "e551eaebb08d3e5232fb0770bb27248c"}
+{"triple": "<British subject>\t<status impacted by>\t<Aliens Act>", "doc_name": "mix_chunk", "source_id": "e551eaebb08d3e5232fb0770bb27248c"}
+{"triple": "<The Friends>\t<differ in>\t<characteristics>", "doc_name": "mix_chunk", "source_id": "b2298b7ebb7d997350491b1ad3d0fde8"}
+{"triple": "<The>\t<is part of>\t<Friends and EmotionPush datasets>", "doc_name": "mix_chunk", "source_id": "b2298b7ebb7d997350491b1ad3d0fde8"}
+{"triple": "<IN>\t<terms of>\t<their characteristics>", "doc_name": "mix_chunk", "source_id": "b2298b7ebb7d997350491b1ad3d0fde8"}
+{"triple": "<Friends>\t<and>\t<EmotionPush datasets>", "doc_name": "mix_chunk", "source_id": "b2298b7ebb7d997350491b1ad3d0fde8"}
+{"triple": "<Kayra>\t<is>\t<Turkic deity>", "doc_name": "mix_chunk", "source_id": "0ee1b5531145c819409ea947c1cbd4ec"}
+{"triple": "<Concept>\t<related to>\t<Kayra>", "doc_name": "mix_chunk", "source_id": "0ee1b5531145c819409ea947c1cbd4ec"}
+{"triple": "<Related>\t<to>\t<Black King>", "doc_name": "mix_chunk", "source_id": "0ee1b5531145c819409ea947c1cbd4ec"}
+{"triple": "<How>\t<relationship of>\t<Kayra to Black King>", "doc_name": "mix_chunk", "source_id": "0ee1b5531145c819409ea947c1cbd4ec"}
+{"triple": "<Kayra>\t<related to>\t<Black King concept>", "doc_name": "mix_chunk", "source_id": "0ee1b5531145c819409ea947c1cbd4ec"}
+{"triple": "<King>\t<is concept of>\t<Turkic deity>", "doc_name": "mix_chunk", "source_id": "0ee1b5531145c819409ea947c1cbd4ec"}
+{"triple": "<Black>\t<part of>\t<Black King>", "doc_name": "mix_chunk", "source_id": "0ee1b5531145c819409ea947c1cbd4ec"}
+{"triple": "<Deity>\t<is>\t<Turkic deity>", "doc_name": "mix_chunk", "source_id": "0ee1b5531145c819409ea947c1cbd4ec"}
+{"triple": "<The>\t<Turkic deity>\t<Kayra>", "doc_name": "mix_chunk", "source_id": "0ee1b5531145c819409ea947c1cbd4ec"}
+{"triple": "<The Study>\t<has>\t<The Primary Objective>", "doc_name": "mix_chunk", "source_id": "bf9bb15432a33a92bf8421f3403e53e7"}
+{"triple": "<The Study>\t<is described in>\t<The Article>", "doc_name": "mix_chunk", "source_id": "bf9bb15432a33a92bf8421f3403e53e7"}
+{"triple": "<The Study>\t<in>\t<The Article>", "doc_name": "mix_chunk", "source_id": "bf9bb15432a33a92bf8421f3403e53e7"}
+{"triple": "<The Article>\t<describes>\t<The Study>", "doc_name": "mix_chunk", "source_id": "bf9bb15432a33a92bf8421f3403e53e7"}
+{"triple": "<What is>\t<the primary objective of>\t<the Study>", "doc_name": "mix_chunk", "source_id": "bf9bb15432a33a92bf8421f3403e53e7"}
+{"triple": "<Philosophy>\t<Play>\t<Role in the Life of Frederike>", "doc_name": "mix_chunk", "source_id": "8f0b30db5fb763ce3533e63c3e84c812"}
+{"triple": "<Role>\t<WAS>\t<Influenced by Leonhard Euler>", "doc_name": "mix_chunk", "source_id": "8f0b30db5fb763ce3533e63c3e84c812"}
+{"triple": "<Mathematics>\t<Play>\t<Role in the Life of Frederike>", "doc_name": "mix_chunk", "source_id": "8f0b30db5fb763ce3533e63c3e84c812"}
+{"triple": "<World War II>\t<role change of>\t<George VI>", "doc_name": "mix_chunk", "source_id": "74d9b5ae6ffeeafefc88e607cb43a9d9"}
+{"triple": "<World War II>\t<public perception change of>\t<George VI>", "doc_name": "mix_chunk", "source_id": "74d9b5ae6ffeeafefc88e607cb43a9d9"}
+{"triple": "<George VI>\t<role>\t<World War II>", "doc_name": "mix_chunk", "source_id": "74d9b5ae6ffeeafefc88e607cb43a9d9"}
+{"triple": "<George VI>\t<public perception change>\t<World War II>", "doc_name": "mix_chunk", "source_id": "74d9b5ae6ffeeafefc88e607cb43a9d9"}
+{"triple": "<George VI>\t<role change>\t<World War II>", "doc_name": "mix_chunk", "source_id": "74d9b5ae6ffeeafefc88e607cb43a9d9"}
+{"triple": "<George VI>\t<public perception>\t<World War II>", "doc_name": "mix_chunk", "source_id": "74d9b5ae6ffeeafefc88e607cb43a9d9"}
+{"triple": "<Significance>\t<is in>\t<Haughey's political career>", "doc_name": "mix_chunk", "source_id": "cf2006eca253359ae1fd52ee70483887"}
+{"triple": "<Significance>\t<is of>\t<Arms Crisis>", "doc_name": "mix_chunk", "source_id": "cf2006eca253359ae1fd52ee70483887"}
+{"triple": "<Haughey>\t<was involved in>\t<Crisis>", "doc_name": "mix_chunk", "source_id": "cf2006eca253359ae1fd52ee70483887"}
+{"triple": "<Arms Crisis>\t<has significance in>\t<Haughey's political career>", "doc_name": "mix_chunk", "source_id": "cf2006eca253359ae1fd52ee70483887"}
+{"triple": "<Arms Crisis>\t<is a>\t<Crisis>", "doc_name": "mix_chunk", "source_id": "cf2006eca253359ae1fd52ee70483887"}
+{"triple": "<Arms>\t<related to>\t<Crisis>", "doc_name": "mix_chunk", "source_id": "cf2006eca253359ae1fd52ee70483887"}
+{"triple": "<Haughey>\t<has career>\t<political>", "doc_name": "mix_chunk", "source_id": "cf2006eca253359ae1fd52ee70483887"}
+{"triple": "<The Film>\t<Is>\t<The King's Speech>", "doc_name": "mix_chunk", "source_id": "b7cc6b7a273c453d50656e21a53cdebc"}
+{"triple": "<The King's Speech>\t<Depicts>\t<The Relationship Between King George VI and Lionel Logue>", "doc_name": "mix_chunk", "source_id": "b7cc6b7a273c453d50656e21a53cdebc"}
+{"triple": "<Lionel Logue>\t<In>\t<The King's Speech>", "doc_name": "mix_chunk", "source_id": "b7cc6b7a273c453d50656e21a53cdebc"}
+{"triple": "<The Relationship>\t<Develop>\t<Between King George VI and Lionel Logue>", "doc_name": "mix_chunk", "source_id": "b7cc6b7a273c453d50656e21a53cdebc"}
+{"triple": "<The Relationship>\t<Develop>\t<In The King's Speech>", "doc_name": "mix_chunk", "source_id": "b7cc6b7a273c453d50656e21a53cdebc"}
+{"triple": "<Themes>\t<are explored in>\t<Indradhanura Chhai>", "doc_name": "mix_chunk", "source_id": "f4b8fdf1a03f45dc36c7d20273e5c27a"}
+{"triple": "<Indradhanura Chhai>\t<is the Indian Oriya film in>\t<question>", "doc_name": "mix_chunk", "source_id": "f4b8fdf1a03f45dc36c7d20273e5c27a"}
+{"triple": "<Indian>\t<origin of>\t<Indradhanura Chhai>", "doc_name": "mix_chunk", "source_id": "f4b8fdf1a03f45dc36c7d20273e5c27a"}
+{"triple": "<Oriya>\t<language of>\t<Indradhanura Chhai>", "doc_name": "mix_chunk", "source_id": "f4b8fdf1a03f45dc36c7d20273e5c27a"}
+{"triple": "<Film>\t<example is>\t<Indradhanura Chhai>", "doc_name": "mix_chunk", "source_id": "f4b8fdf1a03f45dc36c7d20273e5c27a"}
+{"triple": "<Impact>\t<is on the>\t<effectiveness of error mitigation>", "doc_name": "mix_chunk", "source_id": "ac476d45955b57669cb116b27f28a241"}
+{"triple": "<Depth>\t<of>\t<the denoiser>", "doc_name": "mix_chunk", "source_id": "ac476d45955b57669cb116b27f28a241"}
+{"triple": "<What is>\t<is>\t<impact of increasing depth on effectiveness>", "doc_name": "mix_chunk", "source_id": "ac476d45955b57669cb116b27f28a241"}
+{"triple": "<Thirukkanur>\t<located in>\t<Puducherry>", "doc_name": "mix_chunk", "source_id": "dac61b4134c665b46738f7f8459de2e3"}
+{"triple": "<Thirukkanur>\t<in>\t<Puducherry>", "doc_name": "mix_chunk", "source_id": "dac61b4134c665b46738f7f8459de2e3"}
+{"triple": "<The>\t<noun qualifier>\t<main features>", "doc_name": "mix_chunk", "source_id": "dac61b4134c665b46738f7f8459de2e3"}
+{"triple": "<Are>\t<in question about>\t<main features>", "doc_name": "mix_chunk", "source_id": "dac61b4134c665b46738f7f8459de2e3"}
+{"triple": "<Main>\t<of>\t<Thirukkanur>", "doc_name": "mix_chunk", "source_id": "dac61b4134c665b46738f7f8459de2e3"}
+{"triple": "<Puducherry>\t<contains>\t<Thirukkanur>", "doc_name": "mix_chunk", "source_id": "dac61b4134c665b46738f7f8459de2e3"}
+{"triple": "<Thirukkanur>\t<has>\t<main features>", "doc_name": "mix_chunk", "source_id": "dac61b4134c665b46738f7f8459de2e3"}
+{"triple": "<Main>\t<features>\t<Thirukkanur>", "doc_name": "mix_chunk", "source_id": "dac61b4134c665b46738f7f8459de2e3"}
+{"triple": "<WHAT>\t<is request for>\t<main features>", "doc_name": "mix_chunk", "source_id": "dac61b4134c665b46738f7f8459de2e3"}
+{"triple": "<Of>\t<regarding>\t<Thirukkanur>", "doc_name": "mix_chunk", "source_id": "dac61b4134c665b46738f7f8459de2e3"}
+{"triple": "<Global Communication>\t<is facilitated by>\t<communications satellites>", "doc_name": "mix_chunk", "source_id": "e5f9f194f7b85a5d1880a5d7b06a94de"}
+{"triple": "<Satellites>\t<facilitate>\t<global communication>", "doc_name": "mix_chunk", "source_id": "e5f9f194f7b85a5d1880a5d7b06a94de"}
+{"triple": "<Communications>\t<are facilitated by>\t<satellites>", "doc_name": "mix_chunk", "source_id": "e5f9f194f7b85a5d1880a5d7b06a94de"}
+{"triple": "<Communication>\t<is facilitated by>\t<communications satellites>", "doc_name": "mix_chunk", "source_id": "e5f9f194f7b85a5d1880a5d7b06a94de"}
+{"triple": "<Structure>\t<is of>\t<State government in Nigeria>", "doc_name": "mix_chunk", "source_id": "1f87a27d14ad1841f255afeca2be0cae"}
+{"triple": "<In Nigeria>\t<has>\t<State government>", "doc_name": "mix_chunk", "source_id": "1f87a27d14ad1841f255afeca2be0cae"}
+{"triple": "<What is>\t<is>\t<structure of the State government in Nigeria>", "doc_name": "mix_chunk", "source_id": "1f87a27d14ad1841f255afeca2be0cae"}
+{"triple": "<How>\t<relate to>\t<Federal government>", "doc_name": "mix_chunk", "source_id": "1f87a27d14ad1841f255afeca2be0cae"}
+{"triple": "<State government>\t<in>\t<Nigeria>", "doc_name": "mix_chunk", "source_id": "1f87a27d14ad1841f255afeca2be0cae"}
+{"triple": "<The Key>\t<is>\t<challenges addressed by>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<IN>\t<relates to>\t<event detection>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<Loop>\t<in approach>\t<human-AI loop approach>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<Approach>\t<proposed>\t<human-AI loop>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<Challenges>\t<are addressed by>\t<human-AI loop approach>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<ConTeXt>\t<is in>\t<event detection>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<WHAT>\t<are>\t<the key challenges>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<Human>\t<in approach>\t<human-AI loop approach>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<AI>\t<in approach>\t<human-AI loop approach>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<Are>\t<used in question>\t<the key challenges>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<Rosalie>\t<has role in>\t<The Story>", "doc_name": "mix_chunk", "source_id": "e1b48609cfa5f9fd51dcf3fd3169b056"}
+{"triple": "<Role>\t<is>\t<of Rosalie in The Story>", "doc_name": "mix_chunk", "source_id": "e1b48609cfa5f9fd51dcf3fd3169b056"}
+{"triple": "<The Story>\t<has role of>\t<Rosalie>", "doc_name": "mix_chunk", "source_id": "e1b48609cfa5f9fd51dcf3fd3169b056"}
+{"triple": "<What is>\t<the role of>\t<Rosalie in The Story>", "doc_name": "mix_chunk", "source_id": "e1b48609cfa5f9fd51dcf3fd3169b056"}
+{"triple": "<is>\t<the role>\t<of Rosalie in The Story>", "doc_name": "mix_chunk", "source_id": "e1b48609cfa5f9fd51dcf3fd3169b056"}
+{"triple": "<Of>\t<Rosalie>\t<the role in The Story>", "doc_name": "mix_chunk", "source_id": "e1b48609cfa5f9fd51dcf3fd3169b056"}
+{"triple": "<IN>\t<The Story>\t<the role of Rosalie>", "doc_name": "mix_chunk", "source_id": "e1b48609cfa5f9fd51dcf3fd3169b056"}
+{"triple": "<The Role>\t<is>\t<of Rosalie in The Story>", "doc_name": "mix_chunk", "source_id": "e1b48609cfa5f9fd51dcf3fd3169b056"}
+{"triple": "<Limitations>\t<for>\t<denoiser>", "doc_name": "mix_chunk", "source_id": "25cc3137d835afa2fc1524a7e20b68e1"}
+{"triple": "<Limitations>\t<of>\t<optimization procedure>", "doc_name": "mix_chunk", "source_id": "25cc3137d835afa2fc1524a7e20b68e1"}
+{"triple": "<What>\t<are>\t<Limitations>", "doc_name": "mix_chunk", "source_id": "25cc3137d835afa2fc1524a7e20b68e1"}
+{"triple": "<Religious conversion>\t<did affect>\t<Career>", "doc_name": "mix_chunk", "source_id": "b348521cb9b061ef5de395b78a1af7b8"}
+{"triple": "<Conversion>\t<did affect>\t<Career>", "doc_name": "mix_chunk", "source_id": "b348521cb9b061ef5de395b78a1af7b8"}
+{"triple": "<Religious conversion>\t<affect>\t<Music career>", "doc_name": "mix_chunk", "source_id": "b348521cb9b061ef5de395b78a1af7b8"}
+{"triple": "<Cat Stevens>\t<is>\t<Yusuf Islam>", "doc_name": "mix_chunk", "source_id": "b348521cb9b061ef5de395b78a1af7b8"}
+{"triple": "<themes>\t<of>\t<trust and betrayal>", "doc_name": "mix_chunk", "source_id": "d4b7f4f8cd23f1bd67909a5ee9754ae3"}
+{"triple": "<the film>\t<has a soundtrack influenced by>\t<Hans Zimmer's collaboration with Christopher Nolan>", "doc_name": "mix_chunk", "source_id": "15fbe8d89b5fb08a15005a0d6ac30ccc"}
+{"triple": "<Witch>\t<of>\t<Atlas>", "doc_name": "mix_chunk", "source_id": "5e0bc86577ecb406de4cfbec677eccb2"}
+{"triple": "<critical reception>\t<reflects>\t<weaknesses>", "doc_name": "mix_chunk", "source_id": "f82c6d2a6f057104cb1494a320e8d0e1"}
+{"triple": "<critical reception>\t<reflects>\t<strengths>", "doc_name": "mix_chunk", "source_id": "f82c6d2a6f057104cb1494a320e8d0e1"}
+{"triple": "<The change>\t<involves>\t<voice actors for Meg Griffin>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<The change>\t<is about>\t<Meg Griffin>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<Meg Griffin>\t<voice actor changed>\t<yes>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<Family Guy>\t<has character>\t<Meg Griffin>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<The change>\t<occurs in>\t<Family Guy>", "doc_name": "mix_chunk", "source_id": "b41f4f7df822b1982e53df9672839e9b"}
+{"triple": "<development>\t<of>\t<plasticity>", "doc_name": "mix_chunk", "source_id": "a3fff8a80c27c855ac5347e84a79c046"}
+{"triple": "<agents>\t<have>\t<plasticity>", "doc_name": "mix_chunk", "source_id": "a3fff8a80c27c855ac5347e84a79c046"}
+{"triple": "<role>\t<in>\t<development>", "doc_name": "mix_chunk", "source_id": "a3fff8a80c27c855ac5347e84a79c046"}
+{"triple": "<plasticity>\t<related to>\t<development>", "doc_name": "mix_chunk", "source_id": "a3fff8a80c27c855ac5347e84a79c046"}
+{"triple": "<nuclear liquid-gas transition>\t<involves transition from>\t<gas of hadrons>", "doc_name": "mix_chunk", "source_id": "9cf3ad9ac8306c48a5a1ebaffe403e19"}
+{"triple": "<nuclear phase>\t<is a type of>\t<phase>", "doc_name": "mix_chunk", "source_id": "9cf3ad9ac8306c48a5a1ebaffe403e19"}
+{"triple": "<nuclear liquid-gas transition>\t<involves transition to>\t<nuclear phase>", "doc_name": "mix_chunk", "source_id": "9cf3ad9ac8306c48a5a1ebaffe403e19"}
+{"triple": "<transition>\t<is involved in>\t<nuclear liquid-gas phase change>", "doc_name": "mix_chunk", "source_id": "9cf3ad9ac8306c48a5a1ebaffe403e19"}
+{"triple": "<nuclear liquid-gas transition>\t<is a type of>\t<transition>", "doc_name": "mix_chunk", "source_id": "9cf3ad9ac8306c48a5a1ebaffe403e19"}
+{"triple": "<nuclear liquid-gas transition>\t<primary challenge in using>\t<conventional lattice QCD>", "doc_name": "mix_chunk", "source_id": "9cf3ad9ac8306c48a5a1ebaffe403e19"}
+{"triple": "<Clans>\t<unique feature>\t<[unique feature]>", "doc_name": "mix_chunk", "source_id": "af82845ce42be6a4fb0ea02047826093"}
+{"triple": "<coupling>\t<has limit>\t<strong coupling limit>", "doc_name": "mix_chunk", "source_id": "5f07a07e07b6d35342810c94c3be4a36"}
+{"triple": "<Ashrita Shetty>\t<connected to>\t<Udhayam NH4>", "doc_name": "mix_chunk", "source_id": "6b8a5ee91172d4537dd03661fdd9071e"}
+{"triple": "<Udhayam NH4>\t<connected to>\t<Ashrita Shetty>", "doc_name": "mix_chunk", "source_id": "6b8a5ee91172d4537dd03661fdd9071e"}
+{"triple": "<research>\t<has key areas>\t<Wale Adebanwi's key areas>", "doc_name": "mix_chunk", "source_id": "8e3ccd436595c25ada7f776d5114cdd2"}
+{"triple": "<academia>\t<is a part of>\t<career evolution>", "doc_name": "mix_chunk", "source_id": "8e3ccd436595c25ada7f776d5114cdd2"}
+{"triple": "<journalism>\t<is a part of>\t<career evolution>", "doc_name": "mix_chunk", "source_id": "8e3ccd436595c25ada7f776d5114cdd2"}
+{"triple": "<career>\t<has evolved to>\t<academia>", "doc_name": "mix_chunk", "source_id": "8e3ccd436595c25ada7f776d5114cdd2"}
+{"triple": "<key areas>\t<are of>\t<research>", "doc_name": "mix_chunk", "source_id": "8e3ccd436595c25ada7f776d5114cdd2"}
+{"triple": "<career>\t<has evolved from>\t<journalism>", "doc_name": "mix_chunk", "source_id": "8e3ccd436595c25ada7f776d5114cdd2"}
+{"triple": "<oman professional league>\t<main reasons for>\t<controversies>", "doc_name": "mix_chunk", "source_id": "3ec54c3e12394d5557df48ede7be4e3f"}
+{"triple": "<oman professional league>\t<located in>\t<oman>", "doc_name": "mix_chunk", "source_id": "3ec54c3e12394d5557df48ede7be4e3f"}
+{"triple": "<system>\t<includes>\t<Logistic Regression>", "doc_name": "mix_chunk", "source_id": "d78d037ed9e141f0ba7de88bc250568b"}
+{"triple": "<system>\t<includes>\t<BERT>", "doc_name": "mix_chunk", "source_id": "d78d037ed9e141f0ba7de88bc250568b"}
+{"triple": "<system>\t<has approach>\t<sentence-level propaganda detection>", "doc_name": "mix_chunk", "source_id": "d78d037ed9e141f0ba7de88bc250568b"}
+{"triple": "<system>\t<includes>\t<CNN>", "doc_name": "mix_chunk", "source_id": "d78d037ed9e141f0ba7de88bc250568b"}
+{"triple": "<system>\t<uses>\t<ensemble of classifiers>", "doc_name": "mix_chunk", "source_id": "d78d037ed9e141f0ba7de88bc250568b"}
+{"triple": "<notable roles>\t<took on by>\t<Robert Day>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<Robert Day's transition>\t<from British film industry>\t<to Hollywood>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<Robert Day's transition>\t<transition to>\t<Hollywood>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<british film industry>\t<working in>\t<by Robert Day>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<notable roles>\t<in productions>\t<by Robert Day>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<roles>\t<took on by>\t<Robert Day>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<transition>\t<involves>\t<British film industry>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<Robert Day's transition>\t<transition from>\t<British film industry>", "doc_name": "mix_chunk", "source_id": "8337a148a3f56104cb4cacb039fb7bf2"}
+{"triple": "<British kitchen sink realism>\t<is a subgenre of>\t<realism>", "doc_name": "mix_chunk", "source_id": "df990f9384a8cb26a6db6e39cc9dd4b1"}
+{"triple": "<British kitchen sink realism>\t<has focus on>\t<everyday life>", "doc_name": "mix_chunk", "source_id": "df990f9384a8cb26a6db6e39cc9dd4b1"}
+{"triple": "<British>\t<associated with>\t<British kitchen sink realism>", "doc_name": "mix_chunk", "source_id": "df990f9384a8cb26a6db6e39cc9dd4b1"}
+{"triple": "<Spiel des Jahres award>\t<is a>\t<award>", "doc_name": "mix_chunk", "source_id": "ec0825f11ecc6238ae07e20c74768164"}
+{"triple": "<significance>\t<of>\t<Spiel des Jahres award>", "doc_name": "mix_chunk", "source_id": "ec0825f11ecc6238ae07e20c74768164"}
+{"triple": "<Spiel des Jahres award>\t<has significance>\t<mentioned in several passages>", "doc_name": "mix_chunk", "source_id": "ec0825f11ecc6238ae07e20c74768164"}
+{"triple": "<strike>\t<impact>\t<season>", "doc_name": "mix_chunk", "source_id": "4201266ba4c5771c20f20e8bd86f3827"}
+{"triple": "<strike>\t<impact>\t<playoffs>", "doc_name": "mix_chunk", "source_id": "4201266ba4c5771c20f20e8bd86f3827"}
+{"triple": "<playoffs>\t<structure changed by>\t<strike>", "doc_name": "mix_chunk", "source_id": "4201266ba4c5771c20f20e8bd86f3827"}
+{"triple": "<season>\t<affected by>\t<strike>", "doc_name": "mix_chunk", "source_id": "4201266ba4c5771c20f20e8bd86f3827"}
+{"triple": "<Challenges>\t<faced by J. Lee Thompson during>\t<Career>", "doc_name": "mix_chunk", "source_id": "0185598bbe5edd202955eca13d70d913"}
+{"triple": "<Challenges>\t<affected>\t<body of work of J. Lee Thompson>", "doc_name": "mix_chunk", "source_id": "0185598bbe5edd202955eca13d70d913"}
+{"triple": "<The Cleveland Show>\t<origin>\t<animated sitcom>", "doc_name": "mix_chunk", "source_id": "06ec47a6d1a4450aa7ba8bd1cf5adc95"}
+{"triple": "<The Cleveland Show>\t<premise>\t<Cleveland and his son>", "doc_name": "mix_chunk", "source_id": "06ec47a6d1a4450aa7ba8bd1cf5adc95"}
+{"triple": "<pie rule>\t<help balance>\t<gameplay>", "doc_name": "mix_chunk", "source_id": "815ec12bd5ccbe365614fc0611b0f475"}
+{"triple": "<pie rule>\t<in>\t<board games>", "doc_name": "mix_chunk", "source_id": "815ec12bd5ccbe365614fc0611b0f475"}
+{"triple": "<gameplay>\t<between>\t<players>", "doc_name": "mix_chunk", "source_id": "815ec12bd5ccbe365614fc0611b0f475"}
+{"triple": "<reliance>\t<is affected by>\t<environmental variability>", "doc_name": "mix_chunk", "source_id": "c4ffe6a556ea84460934a292ed48e3b5"}
+{"triple": "<reliance>\t<of>\t<artificial organisms>", "doc_name": "mix_chunk", "source_id": "c4ffe6a556ea84460934a292ed48e3b5"}
+{"triple": "<systems>\t<can be applied to>\t<proposed method>", "doc_name": "mix_chunk", "source_id": "16461c0df909f2c92cc610afec504692"}
+{"triple": "<systems>\t<have>\t<unknown equations of motion>", "doc_name": "mix_chunk", "source_id": "16461c0df909f2c92cc610afec504692"}
+{"triple": "<plasticity>\t<has>\t<rules>", "doc_name": "mix_chunk", "source_id": "d2ab44b0e1edb312468e4d02e9ff0ad0"}
+{"triple": "<significance>\t<in context of>\t<Scottish politics>", "doc_name": "mix_chunk", "source_id": "14d499248b806d312949d2ced485bd54"}
+{"triple": "<context>\t<of>\t<Scottish politics>", "doc_name": "mix_chunk", "source_id": "14d499248b806d312949d2ced485bd54"}
+{"triple": "<significance>\t<of>\t<Thomas Kennedy>", "doc_name": "mix_chunk", "source_id": "14d499248b806d312949d2ced485bd54"}
+{"triple": "<Features>\t<include>\t<topical features>", "doc_name": "mix_chunk", "source_id": "1e33063e2aef4ab63fa64fbbc4e454bd"}
+{"triple": "<Features>\t<include>\t<layout features>", "doc_name": "mix_chunk", "source_id": "1e33063e2aef4ab63fa64fbbc4e454bd"}
+{"triple": "<System>\t<utilize>\t<topical features>", "doc_name": "mix_chunk", "source_id": "1e33063e2aef4ab63fa64fbbc4e454bd"}
+{"triple": "<System>\t<utilize>\t<linguistic features>", "doc_name": "mix_chunk", "source_id": "1e33063e2aef4ab63fa64fbbc4e454bd"}
+{"triple": "<Features>\t<include>\t<linguistic features>", "doc_name": "mix_chunk", "source_id": "1e33063e2aef4ab63fa64fbbc4e454bd"}
+{"triple": "<System>\t<utilize>\t<layout features>", "doc_name": "mix_chunk", "source_id": "1e33063e2aef4ab63fa64fbbc4e454bd"}
+{"triple": "<M-cell>\t<model type>\t<Human intestinal>", "doc_name": "mix_chunk", "source_id": "608ea61aac61b6f6f3671df3a8ff229a"}
+{"triple": "<Innovation>\t<focus>\t<M-cell vs. enterocyte transport>", "doc_name": "mix_chunk", "source_id": "608ea61aac61b6f6f3671df3a8ff229a"}
+{"triple": "<Chitosan-DNA nanoparticles>\t<transport comparison>\t<Normal intestinal enterocytes>", "doc_name": "mix_chunk", "source_id": "608ea61aac61b6f6f3671df3a8ff229a"}
+{"triple": "<Chitosan-DNA nanoparticles>\t<used for>\t<Gene delivery>", "doc_name": "mix_chunk", "source_id": "608ea61aac61b6f6f3671df3a8ff229a"}
+{"triple": "<Enterocyte>\t<model type>\t<Normal intestinal>", "doc_name": "mix_chunk", "source_id": "608ea61aac61b6f6f3671df3a8ff229a"}
+{"triple": "<Chitosan-DNA nanoparticles>\t<transport comparison>\t<Human intestinal M-cell model>", "doc_name": "mix_chunk", "source_id": "608ea61aac61b6f6f3671df3a8ff229a"}
+{"triple": "<Innovation>\t<application>\t<Gene delivery>", "doc_name": "mix_chunk", "source_id": "608ea61aac61b6f6f3671df3a8ff229a"}
+{"triple": "<proposed method>\t<compare to>\t<fourth-order Runge-Kutta method>", "doc_name": "mix_chunk", "source_id": "cc6c2cd20ad760731a39fd4cf13ffedd"}
+{"triple": "<fourth-order Runge-Kutta method>\t<compared in terms of>\t<computational efficiency>", "doc_name": "mix_chunk", "source_id": "cc6c2cd20ad760731a39fd4cf13ffedd"}
+{"triple": "<proposed method>\t<in terms of>\t<computational efficiency>", "doc_name": "mix_chunk", "source_id": "cc6c2cd20ad760731a39fd4cf13ffedd"}
+{"triple": "<Pulaski High School>\t<has demographic makeup>\t<demographic makeup>", "doc_name": "mix_chunk", "source_id": "feb8686e665dc121eb7e1847522d86e4"}
+{"triple": "<Pulaski High School>\t<located in>\t<Wisconsin>", "doc_name": "mix_chunk", "source_id": "feb8686e665dc121eb7e1847522d86e4"}
+{"triple": "<kondo screening>\t<occurs in>\t<system>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<kondo screening>\t<is>\t<two-stage>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<system>\t<has>\t<superconducting lead>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<quantum dots>\t<are coupled to>\t<superconducting lead>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<kondo screening>\t<is conditioned by>\t<system>", "doc_name": "mix_chunk", "source_id": "24381f21ca8860d526e9a9437667ed02"}
+{"triple": "<Systems>\t<handles>\t<higher-order poles>", "doc_name": "mix_chunk", "source_id": "53365f4ca0d4c26274ac388c5bb67063"}
+{"triple": "<Systems>\t<in>\t<nonlinear systems>", "doc_name": "mix_chunk", "source_id": "53365f4ca0d4c26274ac388c5bb67063"}
+{"triple": "<Systems>\t<handles>\t<corresponding coefficients>", "doc_name": "mix_chunk", "source_id": "53365f4ca0d4c26274ac388c5bb67063"}
+{"triple": "<context>\t<study of puns>\t<human-computer interaction>", "doc_name": "mix_chunk", "source_id": "4cfa654ebcdc19b923109c2661c4e187"}
+{"triple": "<context>\t<study of puns>\t<machine translation>", "doc_name": "mix_chunk", "source_id": "4cfa654ebcdc19b923109c2661c4e187"}
+{"triple": "<interaction>\t<type>\t<human-computer>", "doc_name": "mix_chunk", "source_id": "4cfa654ebcdc19b923109c2661c4e187"}
+{"triple": "<significance>\t<studying puns>\t<understanding language ambiguity>", "doc_name": "mix_chunk", "source_id": "4cfa654ebcdc19b923109c2661c4e187"}
+{"triple": "<Fredericton>\t<located in>\t<New Brunswick>", "doc_name": "mix_chunk", "source_id": "5428f604887b21244029a2bcdde8130f"}
+{"triple": "<New Brunswick>\t<located in>\t<Canada>", "doc_name": "mix_chunk", "source_id": "5428f604887b21244029a2bcdde8130f"}
+{"triple": "<Fredericton>\t<located in>\t<Canada>", "doc_name": "mix_chunk", "source_id": "5428f604887b21244029a2bcdde8130f"}
+{"triple": "<nonlinear response>\t<according to>\t<proposed method>", "doc_name": "mix_chunk", "source_id": "f6d41496f440b554d2ae03ceb50eb00d"}
+{"triple": "<key components>\t<are components of>\t<nonlinear response>", "doc_name": "mix_chunk", "source_id": "f6d41496f440b554d2ae03ceb50eb00d"}
+{"triple": "<Sebastian Cabot>\t<contributed to>\t<exploration>", "doc_name": "mix_chunk", "source_id": "89e1b30ab6cf4dc2cf7686effef74d57"}
+{"triple": "<New World>\t<explored by>\t<Sebastian Cabot>", "doc_name": "mix_chunk", "source_id": "89e1b30ab6cf4dc2cf7686effef74d57"}
+{"triple": "<Sebastian Cabot>\t<associated with exploration of>\t<New World>", "doc_name": "mix_chunk", "source_id": "89e1b30ab6cf4dc2cf7686effef74d57"}
+{"triple": "<significance>\t<of>\t<Bluegrass Commerce Park in Jeffersontown, Kentucky>", "doc_name": "mix_chunk", "source_id": "3a753d5693b2890947410cf1b0198292"}
+{"triple": "<career trajectory>\t<changed after>\t<commercial failure of his film Walker>", "doc_name": "mix_chunk", "source_id": "2ab033eca8795d0aef51f58485228d1e"}
+{"triple": "<Koh Sotin District>\t<is located in>\t<Cambodia>", "doc_name": "mix_chunk", "source_id": "7203567aaf9641677ec7e6a3d8d0dd63"}
+{"triple": "<historical context>\t<of the area around>\t<Koh Sotin District>", "doc_name": "mix_chunk", "source_id": "7203567aaf9641677ec7e6a3d8d0dd63"}
+{"triple": "<bull riding>\t<is a domain of>\t<Guilherme Marchi>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<Guilherme Marchi>\t<has dedication>\t<bull riding>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<Guilherme Marchi>\t<has success in>\t<sport>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<sport>\t<involves>\t<bull riding>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<Guilherme Marchi>\t<has consistency>\t<bull riding>", "doc_name": "mix_chunk", "source_id": "e6fe3147c2ecb80bee5f2c2e73daddfa"}
+{"triple": "<Dual-Sensitive Micellar Nanoparticles>\t<Regulate>\t<DNA Unpacking>", "doc_name": "mix_chunk", "source_id": "6205a815a67cb3523f73b06304bca651"}
+{"triple": "<\"Dual Sensitivity\">\t<is property of>\t<Micellar Nanoparticles>", "doc_name": "mix_chunk", "source_id": "6205a815a67cb3523f73b06304bca651"}
+{"triple": "<Dual-Sensitive Micellar Nanoparticles>\t<Enhance>\t<Gene-Delivery Efficiency>", "doc_name": "mix_chunk", "source_id": "6205a815a67cb3523f73b06304bca651"}
+{"triple": "<significance>\t<is of>\t<RKKY interaction>", "doc_name": "mix_chunk", "source_id": "0c0ee901907e90118f36aa002b422116"}
+{"triple": "<context>\t<of systems>\t<discussed in the text>", "doc_name": "mix_chunk", "source_id": "0c0ee901907e90118f36aa002b422116"}
+{"triple": "<RKKY>\t<is an>\t<interaction>", "doc_name": "mix_chunk", "source_id": "0c0ee901907e90118f36aa002b422116"}
+{"triple": "<systems>\t<discussed>\t<in the text>", "doc_name": "mix_chunk", "source_id": "0c0ee901907e90118f36aa002b422116"}
+{"triple": "<Circumstances>\t<surrounding>\t<Disappearance>", "doc_name": "mix_chunk", "source_id": "46faed68734ca519deb322d47a7e5ce6"}
+{"triple": "<Disappearance>\t<of>\t<Captain Mansell Richard James>", "doc_name": "mix_chunk", "source_id": "46faed68734ca519deb322d47a7e5ce6"}
+{"triple": "<Captain Mansell Richard James>\t<disappearance>\t<World War I>", "doc_name": "mix_chunk", "source_id": "46faed68734ca519deb322d47a7e5ce6"}
+{"triple": "<Act>\t<establishes>\t<Town and Country Development Authority>", "doc_name": "mix_chunk", "source_id": "4d551d6b5632bc02a6b9c0c516663f45"}
+{"triple": "<role>\t<play in>\t<fine-tuning's performance>", "doc_name": "mix_chunk", "source_id": "2d1dfee0b0976b3ce95062c4f21bc1c5"}
+{"triple": "<performance>\t<is influenced by>\t<fine-tuning>", "doc_name": "mix_chunk", "source_id": "2d1dfee0b0976b3ce95062c4f21bc1c5"}
+{"triple": "<system>\t<relies on>\t<fine-tuning>", "doc_name": "mix_chunk", "source_id": "2d1dfee0b0976b3ce95062c4f21bc1c5"}
+{"triple": "<Humphrey de Bohun>\t<opposition over>\t<Confirmatio Cartarum>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<The opposition>\t<was against>\t<King Edward I>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Confirmatio Cartarum>\t<opposition from>\t<Humphrey de Bohun, 3rd Earl of Hereford>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Humphrey de Bohun, 3rd Earl of Hereford>\t<played a role in>\t<opposition>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Humphrey de Bohun, 3rd Earl of Hereford>\t<opposition over>\t<Confirmatio Cartarum>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<The opposition>\t<regarding>\t<Confirmatio Cartarum>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Bohun>\t<opposition over>\t<Confirmatio Cartarum>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Bohun>\t<played a role in>\t<opposition to King Edward I>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Humphrey de Bohun>\t<played a role in>\t<opposition to Edward I>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Humphrey de Bohun, 3rd Earl of Hereford>\t<opposition to>\t<King Edward I>", "doc_name": "mix_chunk", "source_id": "eba0afd21d60775dc5c1b997db1cccd0"}
+{"triple": "<Pyrrhic victory>\t<example from>\t<history>", "doc_name": "mix_chunk", "source_id": "b32f2ae66e2a4507a81260f68f44ca04"}
+{"triple": "<Pyrrhic victory>\t<is a type of>\t<victory>", "doc_name": "mix_chunk", "source_id": "b32f2ae66e2a4507a81260f68f44ca04"}
+{"triple": "<Battle of María>\t<took place during>\t<Peninsular War>", "doc_name": "mix_chunk", "source_id": "3ae6b0ac66d39e83e58876eb34e3c6ad"}
+{"triple": "<Regression analysis>\t<key findings regarding>\t<types of questions>", "doc_name": "mix_chunk", "source_id": "d5ed03c8d61fe8d9497edcf48a93d15d"}
+{"triple": "<types of questions>\t<benefit from>\t<pre-training with cloze questions>", "doc_name": "mix_chunk", "source_id": "d5ed03c8d61fe8d9497edcf48a93d15d"}
+{"triple": "<predecessors>\t<have>\t<responsibilities>", "doc_name": "mix_chunk", "source_id": "b82681766d0f6f8d7460a1cb300c78b9"}
+{"triple": "<differences>\t<regarding>\t<responsibilities>", "doc_name": "mix_chunk", "source_id": "b82681766d0f6f8d7460a1cb300c78b9"}
+{"triple": "<responsibilities>\t<compared to>\t<predecessors>", "doc_name": "mix_chunk", "source_id": "b82681766d0f6f8d7460a1cb300c78b9"}
+{"triple": "<predecessors>\t<have>\t<roles>", "doc_name": "mix_chunk", "source_id": "b82681766d0f6f8d7460a1cb300c78b9"}
+{"triple": "<roles>\t<compared to>\t<predecessors>", "doc_name": "mix_chunk", "source_id": "b82681766d0f6f8d7460a1cb300c78b9"}
+{"triple": "<differences>\t<regarding>\t<roles>", "doc_name": "mix_chunk", "source_id": "b82681766d0f6f8d7460a1cb300c78b9"}
+{"triple": "<system>\t<has component>\t<bag-in-box>", "doc_name": "mix_chunk", "source_id": "5c7a46fbecc7cd21b62294c639d73440"}
+{"triple": "<bag-in-box system>\t<role>\t<dispensing sulfuric acid>", "doc_name": "mix_chunk", "source_id": "5c7a46fbecc7cd21b62294c639d73440"}
+{"triple": "<bag-in-box system>\t<applies to>\t<lead-acid batteries>", "doc_name": "mix_chunk", "source_id": "5c7a46fbecc7cd21b62294c639d73440"}
+{"triple": "<professional football>\t<related to>\t<Argentina>", "doc_name": "mix_chunk", "source_id": "45eaeca23b320509c0eda0f2dc3cb81d"}
+{"triple": "<career>\t<evolved in>\t<Argentine professional football>", "doc_name": "mix_chunk", "source_id": "45eaeca23b320509c0eda0f2dc3cb81d"}
+{"triple": "<argentine>\t<context of>\t<career evolution>", "doc_name": "mix_chunk", "source_id": "45eaeca23b320509c0eda0f2dc3cb81d"}
+{"triple": "<career>\t<belongs to>\t<Maximiliano Serrano>", "doc_name": "mix_chunk", "source_id": "45eaeca23b320509c0eda0f2dc3cb81d"}
+{"triple": "<professional football>\t<involves>\t<career development>", "doc_name": "mix_chunk", "source_id": "45eaeca23b320509c0eda0f2dc3cb81d"}
+{"triple": "<argentine>\t<has>\t<professional football>", "doc_name": "mix_chunk", "source_id": "45eaeca23b320509c0eda0f2dc3cb81d"}
+{"triple": "<historical context>\t<led to>\t<formation of the Yugoslav Olympic Committee>", "doc_name": "mix_chunk", "source_id": "38807f4a6351631e4ce9c0de54f600b9"}
+{"triple": "<historical context>\t<led to>\t<evolution of the Yugoslav Olympic Committee over time>", "doc_name": "mix_chunk", "source_id": "38807f4a6351631e4ce9c0de54f600b9"}
+{"triple": "<Gino Bartali>\t<contribution to aiding>\t<Jews>", "doc_name": "mix_chunk", "source_id": "72f72325e7b8a3184dd012b628d95dc1"}
+{"triple": "<World War II>\t<context of aiding>\t<Jews>", "doc_name": "mix_chunk", "source_id": "72f72325e7b8a3184dd012b628d95dc1"}
+{"triple": "<Gino Bartali>\t<aided>\t<Jews>", "doc_name": "mix_chunk", "source_id": "72f72325e7b8a3184dd012b628d95dc1"}
+{"triple": "<Gino Bartali>\t<during>\t<World War II>", "doc_name": "mix_chunk", "source_id": "72f72325e7b8a3184dd012b628d95dc1"}
+{"triple": "<Jews>\t<aided by>\t<Gino Bartali>", "doc_name": "mix_chunk", "source_id": "72f72325e7b8a3184dd012b628d95dc1"}
+{"triple": "<World War II>\t<time of aiding>\t<Jews by Gino Bartali>", "doc_name": "mix_chunk", "source_id": "72f72325e7b8a3184dd012b628d95dc1"}
+{"triple": "<the invention>\t<is the invention of>\t<bag-in-box system>", "doc_name": "mix_chunk", "source_id": "09d27d6d1758b268222852e22dd9d059"}
+{"triple": "<bag-in-box system>\t<is a>\t<system>", "doc_name": "mix_chunk", "source_id": "09d27d6d1758b268222852e22dd9d059"}
+{"triple": "<the invention>\t<revolutionized>\t<packaging industry>", "doc_name": "mix_chunk", "source_id": "09d27d6d1758b268222852e22dd9d059"}
+{"triple": "<the horse>\t<has achievements>\t<significant achievements>", "doc_name": "mix_chunk", "source_id": "b20a3cda892b9ec2c300e731685d3eb6"}
+{"triple": "<Charisma>\t<has achievements>\t<significant achievements>", "doc_name": "mix_chunk", "source_id": "b20a3cda892b9ec2c300e731685d3eb6"}
+{"triple": "<context>\t<refers to>\t<German-French cinema>", "doc_name": "mix_chunk", "source_id": "c9ae215d2c5f2e6fadd2ef5b7fb3c136"}
+{"triple": "<German-French cinema>\t<has context>\t<context>", "doc_name": "mix_chunk", "source_id": "c9ae215d2c5f2e6fadd2ef5b7fb3c136"}
+{"triple": "<group portrait>\t<is a type of>\t<portrait>", "doc_name": "mix_chunk", "source_id": "c9ae215d2c5f2e6fadd2ef5b7fb3c136"}
+{"triple": "<development>\t<of>\t<Roman law>", "doc_name": "mix_chunk", "source_id": "bd4129456d913da054df48f707e48240"}
+{"triple": "<significance>\t<of>\t<Tiberius Coruncanius>", "doc_name": "mix_chunk", "source_id": "bd4129456d913da054df48f707e48240"}
+{"triple": "<significance>\t<related to>\t<Roman law>", "doc_name": "mix_chunk", "source_id": "bd4129456d913da054df48f707e48240"}
+{"triple": "<role>\t<played in>\t<establishment of Channel 4 in UK>", "doc_name": "mix_chunk", "source_id": "60283a7e82343fd29038e294b73baa0d"}
+{"triple": "<Channel 4>\t<established in>\t<UK>", "doc_name": "mix_chunk", "source_id": "60283a7e82343fd29038e294b73baa0d"}
+{"triple": "<UK>\t<has>\t<Channel 4>", "doc_name": "mix_chunk", "source_id": "60283a7e82343fd29038e294b73baa0d"}
+{"triple": "<role>\t<played by>\t<John Ranelagh>", "doc_name": "mix_chunk", "source_id": "60283a7e82343fd29038e294b73baa0d"}
+{"triple": "<establishment>\t<location>\t<UK>", "doc_name": "mix_chunk", "source_id": "60283a7e82343fd29038e294b73baa0d"}
+{"triple": "<establishment>\t<of>\t<Channel 4>", "doc_name": "mix_chunk", "source_id": "60283a7e82343fd29038e294b73baa0d"}
+{"triple": "<Europe>\t<has>\t<social and economic structures>", "doc_name": "mix_chunk", "source_id": "2fbcd37d560cef90c9d2922069b4c057"}
+{"triple": "<impact>\t<location>\t<Europe>", "doc_name": "mix_chunk", "source_id": "2fbcd37d560cef90c9d2922069b4c057"}
+{"triple": "<impact>\t<object>\t<social and economic structures>", "doc_name": "mix_chunk", "source_id": "2fbcd37d560cef90c9d2922069b4c057"}
+{"triple": "<impact>\t<subject>\t<Black Death>", "doc_name": "mix_chunk", "source_id": "2fbcd37d560cef90c9d2922069b4c057"}
+{"triple": "<Biltmore Records>\t<go out of business>\t<reason for closure>", "doc_name": "mix_chunk", "source_id": "2cd240a9b4aae9d14458b169243c586e"}
+{"triple": "<Biltmore Records>\t<rerelease>\t<artists' recordings>", "doc_name": "mix_chunk", "source_id": "2cd240a9b4aae9d14458b169243c586e"}
+{"triple": "<effectiveness>\t<contributed to by>\t<unified probabilistic model>", "doc_name": "mix_chunk", "source_id": "99b526e7ef1daae37b001a0ddfc9ec97"}
+{"triple": "<human-ai loop approach>\t<has contribution from>\t<unified probabilistic model>", "doc_name": "mix_chunk", "source_id": "99b526e7ef1daae37b001a0ddfc9ec97"}
+{"triple": "<human-ai loop approach>\t<uses>\t<human-ai loop>", "doc_name": "mix_chunk", "source_id": "99b526e7ef1daae37b001a0ddfc9ec97"}
+{"triple": "<Scientific article>\t<addresses>\t<Primary task>", "doc_name": "mix_chunk", "source_id": "60799b5c45d51fbd9c57af9894782551"}
+{"triple": "<Chapter II>\t<perform>\t<commercially>", "doc_name": "mix_chunk", "source_id": "fa2c51837fa8291ab95f8d8e95acb4ff"}
+{"triple": "<Friends and EmotionPush datasets>\t<differ in>\t<their characteristics>", "doc_name": "mix_chunk", "source_id": "b2298b7ebb7d997350491b1ad3d0fde8"}
+{"triple": "<Miranda Hope>\t<decides to stay>\t<Paris>", "doc_name": "mix_chunk", "source_id": "0a9b9545bb5151f099d1a8d9ceadb7df"}
+{"triple": "<Miranda Hope>\t<stays with>\t<Madame de Maisonrouge>", "doc_name": "mix_chunk", "source_id": "0a9b9545bb5151f099d1a8d9ceadb7df"}
+{"triple": "<NPO 1 Extra>\t<has primary focus of>\t<programming>", "doc_name": "mix_chunk", "source_id": "8adee87943d1f867209fad5d8f4eb067"}
+{"triple": "<significance>\t<of>\t<human-ai loop approach>", "doc_name": "mix_chunk", "source_id": "bf986789e4831086718ffd0c0617142d"}
+{"triple": "<human-ai loop>\t<includes>\t<approach>", "doc_name": "mix_chunk", "source_id": "bf986789e4831086718ffd0c0617142d"}
+{"triple": "<event detection>\t<is part of>\t<tasks>", "doc_name": "mix_chunk", "source_id": "bf986789e4831086718ffd0c0617142d"}
+{"triple": "<context>\t<involves>\t<complex event detection tasks>", "doc_name": "mix_chunk", "source_id": "bf986789e4831086718ffd0c0617142d"}
+{"triple": "<human-ai loop approach>\t<in the context of>\t<complex event detection tasks>", "doc_name": "mix_chunk", "source_id": "bf986789e4831086718ffd0c0617142d"}
+{"triple": "<Miss Vane>\t<describe>\t<position of woman in England>", "doc_name": "mix_chunk", "source_id": "09a2888b345e48a18f5736b0de70f675"}
+{"triple": "<view>\t<of>\t<Miranda Hope>", "doc_name": "mix_chunk", "source_id": "25b11a90f44fc1cf1417561ea18264a3"}
+{"triple": "<aristocracy>\t<view of>\t<Miss Vane>", "doc_name": "mix_chunk", "source_id": "25b11a90f44fc1cf1417561ea18264a3"}
+{"triple": "<view>\t<of>\t<aristocracy>", "doc_name": "mix_chunk", "source_id": "25b11a90f44fc1cf1417561ea18264a3"}
+{"triple": "<view>\t<of>\t<Miss Vane>", "doc_name": "mix_chunk", "source_id": "25b11a90f44fc1cf1417561ea18264a3"}
+{"triple": "<aristocracy>\t<view of>\t<Miranda Hope>", "doc_name": "mix_chunk", "source_id": "25b11a90f44fc1cf1417561ea18264a3"}
+{"triple": "<career>\t<characterized by>\t<prolific>", "doc_name": "mix_chunk", "source_id": "9e8ecf4054e43e421cdfd2d5a4fe4368"}
+{"triple": "<career>\t<influenced by>\t<assistant director experience>", "doc_name": "mix_chunk", "source_id": "9e8ecf4054e43e421cdfd2d5a4fe4368"}
+{"triple": "<career>\t<genre>\t<Westerns>", "doc_name": "mix_chunk", "source_id": "9e8ecf4054e43e421cdfd2d5a4fe4368"}
+{"triple": "<career>\t<field>\t<directing>", "doc_name": "mix_chunk", "source_id": "9e8ecf4054e43e421cdfd2d5a4fe4368"}
+{"triple": "<career>\t<genre>\t<adventure movies>", "doc_name": "mix_chunk", "source_id": "9e8ecf4054e43e421cdfd2d5a4fe4368"}
+{"triple": "<human-AI loop approach>\t<involves>\t<human-AI loop>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<key challenges>\t<are in the context of>\t<event detection>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<context>\t<is>\t<event detection>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<human-AI loop approach>\t<addresses>\t<key challenges>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<human-AI loop approach>\t<addresses>\t<challenges>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<human-AI loop approach>\t<is in the context of>\t<event detection>", "doc_name": "mix_chunk", "source_id": "7b6210cf6e7deb17a9804735c0ef4e06"}
+{"triple": "<Significance>\t<related to>\t<Sanjiang Church in Wenzhou, China>", "doc_name": "mix_chunk", "source_id": "633ac83b51f0783600b01d5003f4c6d2"}
+{"triple": "<Significance>\t<involves>\t<cultural landmark>", "doc_name": "mix_chunk", "source_id": "633ac83b51f0783600b01d5003f4c6d2"}
+{"triple": "<Significance>\t<pertains to>\t<religious importance>", "doc_name": "mix_chunk", "source_id": "633ac83b51f0783600b01d5003f4c6d2"}
+{"triple": "<Significance>\t<concerns>\t<Christian community>", "doc_name": "mix_chunk", "source_id": "633ac83b51f0783600b01d5003f4c6d2"}
+{"triple": "<The article>\t<describes>\t<the study>", "doc_name": "mix_chunk", "source_id": "bf9bb15432a33a92bf8421f3403e53e7"}
+{"triple": "<The study>\t<has as primary objective>\t<...>", "doc_name": "mix_chunk", "source_id": "bf9bb15432a33a92bf8421f3403e53e7"}
+{"triple": "<contributions>\t<main contributions of>\t<paper>", "doc_name": "mix_chunk", "source_id": "c98054d840dd0c99673462165ce49762"}
+{"triple": "<concept>\t<develop>\t<historically>", "doc_name": "mix_chunk", "source_id": "a66512fa54fd1b1f2ac3523a613c873d"}
+{"triple": "<concept>\t<of>\t<British subjecthood>", "doc_name": "mix_chunk", "source_id": "a66512fa54fd1b1f2ac3523a613c873d"}
+{"triple": "<impact>\t<by>\t<Marie of Brabant, Countess of Savoy>", "doc_name": "mix_chunk", "source_id": "0c9b079bd3fd8326ad9ac3c2219ce3f1"}
+{"triple": "<impact>\t<on>\t<cultural and political landscape of Savoy>", "doc_name": "mix_chunk", "source_id": "0c9b079bd3fd8326ad9ac3c2219ce3f1"}
+{"triple": "<haughey>\t<was cleared of involvement in>\t<arms and money being sent to INLA from Libya>", "doc_name": "mix_chunk", "source_id": "ebff74ce833857b3e3ef984141fee3a0"}
+{"triple": "<haughey>\t<was the Taoiseach (Prime Minister) of>\t<Ireland>", "doc_name": "mix_chunk", "source_id": "ebff74ce833857b3e3ef984141fee3a0"}
+{"triple": "<haughey>\t<was involved in>\t<Arms Trial>", "doc_name": "mix_chunk", "source_id": "ebff74ce833857b3e3ef984141fee3a0"}
+{"triple": "<implications>\t<of>\t<Eastern Division>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<sports leagues>\t<is a>\t<context>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<military contexts>\t<is a>\t<military>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Eastern Division>\t<has implications in>\t<sports leagues>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<military contexts>\t<is a>\t<context>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<Eastern Division>\t<has implications in>\t<military contexts>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<sports leagues>\t<is a>\t<leagues>", "doc_name": "mix_chunk", "source_id": "9f2189bf6a898fa1540fffc50b44aa21"}
+{"triple": "<aliens act>\t<impact>\t<british subject status>", "doc_name": "mix_chunk", "source_id": "e551eaebb08d3e5232fb0770bb27248c"}
+{"triple": "<Black King>\t<is a>\t<concept>", "doc_name": "mix_chunk", "source_id": "0ee1b5531145c819409ea947c1cbd4ec"}
+{"triple": "<Kayra>\t<related to>\t<Black King>", "doc_name": "mix_chunk", "source_id": "0ee1b5531145c819409ea947c1cbd4ec"}
+{"triple": "<Kayra>\t<is a>\t<Turkic deity>", "doc_name": "mix_chunk", "source_id": "0ee1b5531145c819409ea947c1cbd4ec"}
+{"triple": "<concept>\t<involves>\t<Black King>", "doc_name": "mix_chunk", "source_id": "0ee1b5531145c819409ea947c1cbd4ec"}
+{"triple": "<Turkic deity>\t<has example>\t<Kayra>", "doc_name": "mix_chunk", "source_id": "0ee1b5531145c819409ea947c1cbd4ec"}
+{"triple": "<Indradhanura Chhai>\t<is a>\t<Indian Oriya film>", "doc_name": "mix_chunk", "source_id": "f4b8fdf1a03f45dc36c7d20273e5c27a"}
+{"triple": "<Rosalie>\t<role in>\t<the story>", "doc_name": "mix_chunk", "source_id": "e1b48609cfa5f9fd51dcf3fd3169b056"}
+{"triple": "<Frederick Henry>\t<reign as>\t<Margrave of Brandenburg-Schwedt>", "doc_name": "mix_chunk", "source_id": "a3cfed1ce457bca5062189146c6cddc1"}
+{"triple": "<Frederick Henry>\t<contributed to>\t<arts and culture>", "doc_name": "mix_chunk", "source_id": "a3cfed1ce457bca5062189146c6cddc1"}
+{"triple": "<the study>\t<addresses>\t<cell response to essential AA deprivation>", "doc_name": "mix_chunk", "source_id": "826c64edfefecf1254a414b2f635002e"}
+{"triple": "<adsorption site>\t<is a>\t<site>", "doc_name": "mix_chunk", "source_id": "05c00021c05242fbd00b51b8b44ad52a"}
+{"triple": "<adsorption site>\t<affects>\t<state of indeno[1,2-a]fluorene (5)>", "doc_name": "mix_chunk", "source_id": "05c00021c05242fbd00b51b8b44ad52a"}
+{"triple": "<indeno[1,2-a]fluorene (5)>\t<is affected by>\t<adsorption site>", "doc_name": "mix_chunk", "source_id": "05c00021c05242fbd00b51b8b44ad52a"}
+{"triple": "<television>\t<has>\t<Goodies>", "doc_name": "mix_chunk", "source_id": "af21294563047dff651a14ca3c25d897"}
+{"triple": "<production>\t<involved>\t<innovative techniques>", "doc_name": "mix_chunk", "source_id": "af21294563047dff651a14ca3c25d897"}
+{"triple": "<series>\t<utilized>\t<innovative techniques>", "doc_name": "mix_chunk", "source_id": "af21294563047dff651a14ca3c25d897"}
+{"triple": "<techniques>\t<used in>\t<production>", "doc_name": "mix_chunk", "source_id": "af21294563047dff651a14ca3c25d897"}
+{"triple": "<communication>\t<enabled by>\t<satellites>", "doc_name": "mix_chunk", "source_id": "e5f9f194f7b85a5d1880a5d7b06a94de"}
+{"triple": "<communications>\t<facilitate through>\t<satellites>", "doc_name": "mix_chunk", "source_id": "e5f9f194f7b85a5d1880a5d7b06a94de"}
+{"triple": "<significance>\t<regarding>\t<region's energy landscape>", "doc_name": "mix_chunk", "source_id": "7e77bfc788641106bc2fb0fde3c989a5"}
+{"triple": "<significance>\t<of>\t<Southern Maryland Electric Cooperative (SMECO)>", "doc_name": "mix_chunk", "source_id": "7e77bfc788641106bc2fb0fde3c989a5"}
+{"triple": "<tests>\t<type>\t<word-similarity>", "doc_name": "mix_chunk", "source_id": "51a8e0f56ed0ae6c8eaba6e897e14f5b"}
+{"triple": "<tests>\t<type>\t<word-analogy>", "doc_name": "mix_chunk", "source_id": "51a8e0f56ed0ae6c8eaba6e897e14f5b"}
+{"triple": "<methods>\t<compared to>\t<other methods>", "doc_name": "mix_chunk", "source_id": "51a8e0f56ed0ae6c8eaba6e897e14f5b"}
+{"triple": "<methods>\t<perform in>\t<standard tests>", "doc_name": "mix_chunk", "source_id": "51a8e0f56ed0ae6c8eaba6e897e14f5b"}
+{"triple": "<the study>\t<address>\t<potential conflict of interest>", "doc_name": "mix_chunk", "source_id": "7050a5dd1da0eeeb2e96c369f8cdea7d"}
+{"triple": "<the study>\t<received funding from>\t<Ajinomoto Co., Inc.>", "doc_name": "mix_chunk", "source_id": "7050a5dd1da0eeeb2e96c369f8cdea7d"}
+{"triple": "<the story>\t<reflect>\t<trust>", "doc_name": "mix_chunk", "source_id": "d4b7f4f8cd23f1bd67909a5ee9754ae3"}
+{"triple": "<the story>\t<reflect>\t<betrayal>", "doc_name": "mix_chunk", "source_id": "d4b7f4f8cd23f1bd67909a5ee9754ae3"}
+{"triple": "<Significance>\t<related to>\t<history of satellite technology>", "doc_name": "mix_chunk", "source_id": "10d784f519eb3252f114da8c00c016b4"}
+{"triple": "<Significance>\t<of>\t<ATS-6>", "doc_name": "mix_chunk", "source_id": "10d784f519eb3252f114da8c00c016b4"}
+{"triple": "<Limitations>\t<of>\t<optimization procedure>", "doc_name": "mix_chunk", "source_id": "25cc3137d835afa2fc1524a7e20b68e1"}
+{"triple": "<Optimization procedure>\t<for>\t<denoiser>", "doc_name": "mix_chunk", "source_id": "25cc3137d835afa2fc1524a7e20b68e1"}
+{"triple": "<George VI>\t<role changed during>\t<World War II>", "doc_name": "mix_chunk", "source_id": "74d9b5ae6ffeeafefc88e607cb43a9d9"}
+{"triple": "<George VI>\t<public perception changed during>\t<World War II>", "doc_name": "mix_chunk", "source_id": "74d9b5ae6ffeeafefc88e607cb43a9d9"}
+{"triple": "<effectiveness>\t<of>\t<error mitigation>", "doc_name": "mix_chunk", "source_id": "ac476d45955b57669cb116b27f28a241"}
+{"triple": "<denoiser>\t<has depth>\t<increasing the depth>", "doc_name": "mix_chunk", "source_id": "ac476d45955b57669cb116b27f28a241"}
+{"triple": "<depth>\t<impact>\t<effectiveness of error mitigation>", "doc_name": "mix_chunk", "source_id": "ac476d45955b57669cb116b27f28a241"}
+{"triple": "<depth>\t<of>\t<denoiser>", "doc_name": "mix_chunk", "source_id": "ac476d45955b57669cb116b27f28a241"}
+{"triple": "<impact>\t<on>\t<effectiveness of error mitigation>", "doc_name": "mix_chunk", "source_id": "ac476d45955b57669cb116b27f28a241"}
+{"triple": "<Yusuf Islam>\t<affect>\t<music career>", "doc_name": "mix_chunk", "source_id": "b348521cb9b061ef5de395b78a1af7b8"}
+{"triple": "<context>\t<of significance>\t<gold mining history>", "doc_name": "mix_chunk", "source_id": "675318257bd8dd6dae8e64a25b586043"}
+{"triple": "<significance>\t<of>\t<Gold Hill, North Carolina>", "doc_name": "mix_chunk", "source_id": "675318257bd8dd6dae8e64a25b586043"}
+{"triple": "<significance>\t<of>\t<Jolyon James's 'Robot Song'>", "doc_name": "mix_chunk", "source_id": "9ea0436053df7adce182d88a685cbdec"}
+{"triple": "<significance>\t<of>\t<his contributions to the Arena Theatre Company>", "doc_name": "mix_chunk", "source_id": "9ea0436053df7adce182d88a685cbdec"}
+{"triple": "<error>\t<cancellation method>\t<probabilistic error cancellation>", "doc_name": "mix_chunk", "source_id": "7424ea0c80fbd108879c351f5b5ca409"}
+{"triple": "<The King's Speech>\t<portrayed>\t<relationship>", "doc_name": "mix_chunk", "source_id": "b7cc6b7a273c453d50656e21a53cdebc"}
+{"triple": "<King George VI>\t<has a relationship with>\t<Lionel Logue>", "doc_name": "mix_chunk", "source_id": "b7cc6b7a273c453d50656e21a53cdebc"}
+{"triple": "<The King's Speech>\t<is about>\t<King George VI>", "doc_name": "mix_chunk", "source_id": "b7cc6b7a273c453d50656e21a53cdebc"}
+{"triple": "<The King's Speech>\t<is about>\t<Lionel Logue>", "doc_name": "mix_chunk", "source_id": "b7cc6b7a273c453d50656e21a53cdebc"}
+{"triple": "<- `Closet`>\t<`is walled`>\t<`up`>", "doc_name": "mix_chunk", "source_id": "beb7b73f9bf6af646c6f7a7c3cec6a7a"}
+{"triple": "<Closet>\t<is walled>\t<up>", "doc_name": "mix_chunk", "source_id": "beb7b73f9bf6af646c6f7a7c3cec6a7a"}
+{"triple": "<state government in Nigeria>\t<has structure>\t<structure of the state government in Nigeria>", "doc_name": "mix_chunk", "source_id": "1f87a27d14ad1841f255afeca2be0cae"}
+{"triple": "<structure of the state government in Nigeria>\t<relates to>\t<federal government>", "doc_name": "mix_chunk", "source_id": "1f87a27d14ad1841f255afeca2be0cae"}
+{"triple": "<state government in Nigeria>\t<is in>\t<Nigeria>", "doc_name": "mix_chunk", "source_id": "1f87a27d14ad1841f255afeca2be0cae"}

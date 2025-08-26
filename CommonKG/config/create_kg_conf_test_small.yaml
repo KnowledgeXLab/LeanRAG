@@ -1,0 +1,52 @@
+## LLM Parameters
+llm_conf:
+  ## LLM url
+  llm_url: 'https://openrouter.ai/api/v1'
+
+  ## LLM key
+  llm_api_key: 'OPENROUTER_API_KEY'
+
+  ## LLM model
+  # llm_model: "Qwen2.5-7B" # ollama model: "qwen2.5:72b"
+  llm_model: 'qwen/qwen3-32b'
+
+  ## Whether to use ollama local deployment model
+  use_ollama: False
+
+  ## Whether to use vllm local deployment model
+  use_vllm: False
+
+  ## Maximum number of online LLM call attempts
+  max_error: 3
+
+  ## Number of GPUs used for ollama deployment model
+  gpu_nums: 1
+
+## Task Parameters
+task_conf:
+  ## Number of layers to generate in the graph
+  level_num: 2
+
+  ## Number of processes for head entity matching (-1 means use all CPU cores)
+  num_processes_match: 4
+
+  ## Number of processes for inference (-1 means use all CPU cores)
+  num_processes_infer: 4
+
+  ## Whether to skip triple extraction
+  skip_extract_triple: False
+
+  ## Whether to extract descriptions for triples
+  extract_desc: True
+
+  ## Head entity path
+  pedia_entity_path: CommonKG/config/test_entities_small.txt
+
+  ## Corpus path to retrieve (can be a single file or processed folder)
+  corpus_path: datasets/mix/mix_chunk.json
+
+  ## Output result directory
+  output_dir: ckg_data
+
+  ## Reference open source triple file path
+  ref_kg_path: CommonKG/config/triple_ref_test.txt

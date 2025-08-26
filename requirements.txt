@@ -114,7 +114,7 @@ langchain-openai==0.3.8
 langchain-text-splitters==0.3.7
 langsmith==0.3.19
 lark==1.2.2
--e git+https://github.com/HKUDS/LightRAG.git@1c870454f1286ab42c1ad3d61925c17bce773dd8#egg=lightrag_hku
+# -e git+https://github.com/HKUDS/LightRAG.git@1c870454f1286ab42c1ad3d61925c17bce773dd8#egg=lightrag_hku
 litellm==1.74.6
 llguidance==0.7.19
 llvmlite==0.44.0
@@ -135,7 +135,7 @@ msgspec==0.19.0
 multidict==6.2.0
 multiprocess==0.70.16
 mypy-extensions==1.0.0
--e git+https://github.com/gusye1234/nano-graphrag.git@0cea71bc5df33eee40a62c5312ed52bb6a9f2c54#egg=nano_graphrag
+# -e git+https://github.com/gusye1234/nano-graphrag.git@0cea71bc5df33eee40a62c5312ed52bb6a9f2c54#egg=nano_graphrag
 nano-vectordb==0.0.2
 neo4j==5.25.0
 nest-asyncio==1.6.0

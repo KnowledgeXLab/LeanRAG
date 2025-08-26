@@ -1,8 +1,12 @@
 import json
 import tiktoken
 from hashlib import md5
+
+
 def compute_mdhash_id(content, prefix: str = ""):
     return prefix + md5(content.encode()).hexdigest()
+
+
 def chunk_documents(
     docs,
     model_name="cl100k_base",
@@ -18,7 +22,7 @@ def chunk_documents(
         lengths = []
 
         for start in range(0, len(tokens), max_token_size - overlap_token_size):
-            chunk = tokens[start : start + max_token_size]
+            chunk = tokens[start: start + max_token_size]
             chunk_token_ids.append(chunk)
             lengths.append(len(chunk))
 
@@ -28,23 +32,35 @@ def chunk_documents(
         for i, text in enumerate(chunk_texts):
             results.append({
                 # "tokens": lengths[i],
-                "hash_code": compute_mdhash_id(text), ##使用hash进行编码
+                "hash_code": compute_mdhash_id(text),  # 使用hash进行编码
                 "text": text.strip().replace("\n", ""),
                 # "chunk_order_index": i,
             })
 
     return results
+
+
 if __name__ == "__main__":
-    max_token_size=1024
-    overlap_token_size=128
-    original_text_file="datasets/mix/mix_unique_contexts.json"
-    chunk_text_file="datasets/mix/mix_chunk.json"
+    max_token_size = 1024
+    overlap_token_size = 128
+    original_text_file = "/workspaces/leangraph/datasets/mix/mix.jsonl"
+    chunk_text_file = "/workspaces/leangraph/datasets/mix/mix_chunk/mix_chunk.json"
+
+    # Read JSONL file - each line is a separate JSON object
+    data = []
     with open(original_text_file, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+        for line in f:
+            if line.strip():  # Skip empty lines
+                data.append(json.loads(line))
+
+    # Extract input texts from all JSON objects
+    input_texts = [item['input'] for item in data if 'input' in item]
+
     results = chunk_documents(
-        data,
+        input_texts,
         max_token_size=max_token_size,
         overlap_token_size=overlap_token_size,
     )
-    with open(f'datasets/{dataset}/{dataset}_chunk.json', 'w', encoding='utf-8') as f:
+
+    with open(chunk_text_file, 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=2)

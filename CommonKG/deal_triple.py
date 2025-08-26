@@ -1,7 +1,7 @@
 import json
 import os
 import sys
-sys.path.append("/data/zyz/LeanRAG")
+sys.path.append("/workspaces/leangraph")
 from tqdm import tqdm
 from prompt import PROMPTS
 import tiktoken
@@ -29,7 +29,11 @@ def process_triple(file_path,output_path):
         relations=[]
         for uline in f:
             line=json.loads(uline)
+            # print(f"Processing line: {line}")  # Debugging line to check content
             triple=line['triple'].split("\t")
+            if len(triple) < 6:
+                # print(f"Skipping malformed triple: {line['triple']}")
+                continue
             doc_name=line['doc_name']
             source_id=line['source_id']
             head_entity=triple[0][1:-1]
@@ -94,19 +98,25 @@ def process_triple(file_path,output_path):
             entities[k]['description'] = summarized_desc
             res_entity.append(entities[k])
 
-    write_jsonl(res_entity,f"{output_path}/entity.jsonl")
+    # Debugging: Check if res_entity has content before writing
+    if not res_entity:
+        print("Warning: No entities were processed. The 'res_entity' list is empty, so 'entity.jsonl' will not be created.")
+    else:
+        print(f"Processed {len(res_entity)} entities. Writing to entity.jsonl...")
+        write_jsonl(res_entity,f"{output_path}/entity.jsonl")
+        print(f"Successfully wrote to {output_path}/entity.jsonl")
         
 if __name__=="__main__":
     MODEL = "qwen3_32b"
     num=4
     instanceManager=InstanceManager(
-        url="http://xxx",
-        ports=[8001 for i in range(num)],
-        gpus=[i for i in range(num)],
-        generate_model=MODEL,
+        url="https://openrouter.ai/api",
+        ports="api",
+        gpus=[0],
+        generate_model="openai/gpt-5-mini",
         startup_delay=30
     )
     use_llm=instanceManager.generate_text
-    file_path="/data/zyz/LeanRAG/ckg_data/mix_chunk"
-    output_path="/data/zyz/LeanRAG/ckg_data/mix_chunk"
+    file_path="/workspaces/leangraph/datasets/mix/mix_chunk"
+    output_path="/workspaces/leangraph/datasets/mix/mix_chunk"
     process_triple(file_path,output_path)

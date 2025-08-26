@@ -1,0 +1,57 @@
+## LLM Parameters
+llm_conf:
+  ## LLM url
+  llm_url: 'https://openrouter.ai/api/v1'
+
+  ## LLM key
+  llm_api_key: 'OPENROUTER_API_KEY'
+
+  ## LLM model
+  # llm_model: "Qwen2.5-7B" # ollama model: "qwen2.5:72b"
+  llm_model: 'qwen/qwen3-32b'
+
+  ## Whether to use ollama local deployment model
+  use_ollama: False
+
+  ## Whether to use vllm local deployment model
+  use_vllm: False
+
+  ## Maximum number of online LLM call attempts
+  max_error: 3
+
+  ## Number of GPUs used for ollama deployment model
+  gpu_nums: 1
+
+## Task Parameters
+task_conf:
+  ## Number of layers to generate in the graph
+  level_num: 2
+
+  ## Number of processes for head entity matching (-1 means use all CPU cores)
+  num_processes_match: 16
+
+  ## Number of processes for inference (-1 means use all CPU cores)
+  num_processes_infer: 16
+
+  ## Whether to skip triple extraction
+  skip_extract_triple: False
+
+  ## Whether to extract descriptions for triples
+  extract_desc: True
+
+  ## Head entity path
+  # Dbpedia English entity list on machine 115: /cpfs04/shared/ADLab/datasets/H_RAG/dbpedia_entities_clean_valid.txt
+  # Wiki Chinese entity list on machine 115: /data/H-RAG/data/triple_data_by_pl/triple_data/wiki_CN_entity_52w_0326.txt
+  pedia_entity_path: CommonKG/config/dbpedia_entities_clean_valid.txt # data/wtr_entity_test.txt
+  # pedia_entity_path: data/wtr_entity_test.txt # data/wtr_entity_test.txt
+
+  ## Corpus path to retrieve (can be a single file or processed folder)
+  # corpus_path: /data/H-RAG/processed_wtr_reports_jsons_0318/wtr03_e_by_page_block.jsonl
+  # Example data: data/wtr03_e_by_page_block-head_20.jsonl or data/wtr03_e_by_page_block-head_100.jsonl
+  corpus_path: datasets/mix/mix_chunk.json
+
+  ## Output result directory
+  output_dir: datasets/mix/
+
+  ## Reference open source triple file path
+  ref_kg_path: CommonKG/config/triple_ref_test.txt

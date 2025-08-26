@@ -1,22 +1,31 @@
 import json
 import os
+import yaml
 
 import sys
-sys.path.append("/data/zyz/LeanRAG")
+sys.path.append("/workspaces/leangraph")
 from tqdm import tqdm
 from prompt import PROMPTS
 import tiktoken
-from tools.utils import read_jsonl, write_jsonl, create_if_not_exist,InstanceManager
+from tools.utils import read_jsonl, write_jsonl, create_if_not_exist
+from CommonKG.llm_infer import LLM_Processor
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import tiktoken
-threshold=50
+threshold=30  # Lowered to test LLM functionality
 def summarize_entity(entity_name, description, summary_prompt, threshold, tokenizer):
     tokens = len(tokenizer.encode(description))
     if tokens > threshold:
-        exact_prompt = summary_prompt.format(entity_name=entity_name, description=description)
-        response = use_llm(exact_prompt)
-        return entity_name, response
+        try:
+            exact_prompt = summary_prompt.format(entity_name=entity_name, description=description)
+            response = use_llm(exact_prompt)
+            if response:  # Check if response is not None or empty
+                return entity_name, response
+        except Exception as e:
+            print(f"Warning: Skipping summarization for '{entity_name}' - LLM error: {e}")
+        
+        # Fallback to original description if LLM fails
+        return entity_name, description
     return entity_name, description  # 不需要摘要则返回原始 description
 
 
@@ -67,7 +76,7 @@ def deal_duplicate_entity(working_dir,output_path):
         for xline in f:
             line=json.loads(xline)
             entity_name=str(line['entity_name']).replace("\"","")
-            entity_type=line['entity_type'].replace("\"","")
+            entity_type=line.get('entity_type', '').replace("\"","")
             description=line['description'].replace("\"","")
             source_id=line['source_id']
             if entity_name not in e_dic.keys():
@@ -91,7 +100,9 @@ def deal_duplicate_entity(working_dir,output_path):
         v['source_id']="|".join(set(v['source_id'].split("|")))
         description=v['description']
         tokens = len(tokenizer.encode(description))
+        print(f"Entity '{k}': {tokens} tokens, threshold: {threshold}")
         if tokens > threshold:
+            print(f"Adding '{k}' to summarization queue")
             to_summarize.append((k, description))
         else:
             all_entities.append(v)
@@ -109,9 +120,9 @@ def deal_duplicate_entity(working_dir,output_path):
     write_jsonl(all_entities,entity_output_path)
     with open(relation_path,"r")as f:
         for xline in f:
-            line=json.loads(xline)[0]
-            src_tgt=str(line['src_id']).replace("\"","")
-            tgt_src=str(line['tgt_id']).replace("\"","")
+            line=json.loads(xline)
+            src_tgt=str(line['src_tgt']).replace("\"","")
+            tgt_src=str(line['tgt_src']).replace("\"","")
             description=line['description'].replace("\"","")
             weight=1
             source_id=line['source_id']
@@ -207,18 +218,28 @@ def process_triple(file_path,output_path):
     write_jsonl(res_entity,f"{output_path}/entity.jsonl")
         
 if __name__=="__main__":
-    MODEL = "qwen3_14b"
-    num=4
-    instanceManager=InstanceManager(
-        url="http://xxx",
-        ports=[8001 for i in range(num)],
-        gpus=[i for i in range(num)],
-        generate_model=MODEL,
-        startup_delay=30
-    )
-    use_llm=instanceManager.generate_text
-    working_dir="ttt"
-    output_path="ttt"
+    # Load configuration from YAML file
+    config_path = "CommonKG/config/create_kg_conf_example.yaml"
+    with open(config_path, 'r') as file:
+        config = yaml.safe_load(file)
+    
+    # Extract LLM configuration
+    llm_conf = config['llm_conf']
+    llm_args = {
+        "llm_model": llm_conf["llm_model"],
+        "llm_url": llm_conf["llm_url"],
+        "llm_api_key": llm_conf["llm_api_key"],
+        "max_error": llm_conf["max_error"],
+        "gpu_nums": llm_conf["gpu_nums"],
+        "use_ollama": llm_conf["use_ollama"],
+        "use_vllm": llm_conf["use_vllm"]
+    }
+    print(f"LLM Configuration: {llm_args}")
+    llm_processor = LLM_Processor(llm_args)
+    use_llm = llm_processor.generate_text
+
+    working_dir="datasets/mix/mix_chunk"
+    output_path="datasets/mix/mix_chunk/"
     # deal_duplicate_entity()
     # truncate_data()
     deal_duplicate_entity(working_dir=working_dir,output_path=output_path)

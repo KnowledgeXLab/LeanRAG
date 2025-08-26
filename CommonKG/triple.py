@@ -13,7 +13,7 @@ class Triple:
         self.relation = relation.strip().replace("<", "").replace(">", "")
         self.tail = tail.strip().replace("<", "").replace(">", "")
 
-    # 可以使用str(Triple)方法来返回三元组，等同于__str__
+    # Can use str(Triple) method to return triple, equivalent to __str__
     def __str__(self):
         return f"<{self.head}>\t<{self.relation}>\t<{self.tail}>"
     @classmethod

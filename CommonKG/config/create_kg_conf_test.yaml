@@ -1,57 +1,57 @@
-## LLM参数
+## LLM Parameters
 llm_conf:
   ## LLM url
-  llm_url: "http://xxx"
+  llm_url: 'https://openrouter.ai/api/v1'
 
   ## LLM key
-  llm_api_key: "EMPTY"
+  llm_api_key: 'OPENROUTER_API_KEY'
 
-  ## LLM模型
-  # llm_model: "Qwen2.5-7B" # ollama模型: "qwen2.5:72b"
-  llm_model: "qwen3_32b" 
+  ## LLM model
+  # llm_model: "Qwen2.5-7B" # ollama model: "qwen2.5:72b"
+  llm_model: 'qwen/qwen3-32b'
 
-  ## 是否使用ollama本地部署模型
+  ## Whether to use ollama local deployment model
   use_ollama: False
 
-  ## 是否使用vllm本地部署模型
-  use_vllm: True
+  ## Whether to use vllm local deployment model
+  use_vllm: False
 
-  ## 在线调用LLM最大尝试次数
+  ## Maximum number of online LLM call attempts
   max_error: 3
 
-  ## 使用ollama部署模型使用的GPU数量
+  ## Number of GPUs used for ollama deployment model
   gpu_nums: 1
 
-## 任务参数
+## Task Parameters
 task_conf:
-  ## 生成图谱的层数
+  ## Number of layers to generate in the graph
   level_num: 2
 
-  ## 头实体匹配多进程数量（-1表示使用所有CPU核心）
+  ## Number of processes for head entity matching (-1 means use all CPU cores)
   num_processes_match: 16
 
-  ## 推理多进程数量（-1表示使用所有CPU核心）
+  ## Number of processes for inference (-1 means use all CPU cores)
   num_processes_infer: 16
 
-  ## 是否跳过三元组抽取
+  ## Whether to skip triple extraction
   skip_extract_triple: False
 
-  ## 是否为triple抽取描述
+  ## Whether to extract descriptions for triples
   extract_desc: True
 
-  ## 头实体路径
-  # 115机器上Dbpedia英文实体清单：/cpfs04/shared/ADLab/datasets/H_RAG/dbpedia_entities_clean_valid.txt
-  # 115机器上Wiki中文实体清单：/data/H-RAG/data/triple_data_by_pl/triple_data/wiki_CN_entity_52w_0326.txt
+  ## Head entity path
+  # Dbpedia English entity list on machine 115: /cpfs04/shared/ADLab/datasets/H_RAG/dbpedia_entities_clean_valid.txt
+  # Wiki Chinese entity list on machine 115: /data/H-RAG/data/triple_data_by_pl/triple_data/wiki_CN_entity_52w_0326.txt
   pedia_entity_path: CommonKG/config/dbpedia_entities_clean_valid.txt # data/wtr_entity_test.txt
   # pedia_entity_path: data/wtr_entity_test.txt # data/wtr_entity_test.txt
 
-  ## 待检索语料路径（可以是单一文件或者处理后的文件夹）
+  ## Corpus path to retrieve (can be a single file or processed folder)
   # corpus_path: /data/H-RAG/processed_wtr_reports_jsons_0318/wtr03_e_by_page_block.jsonl
-  # 示例data：data/wtr03_e_by_page_block-head_20.jsonl or data/wtr03_e_by_page_block-head_100.jsonl
+  # Example data: data/wtr03_e_by_page_block-head_20.jsonl or data/wtr03_e_by_page_block-head_100.jsonl
   corpus_path: datasets/mix/mix_chunk.json
 
-  ## 输出结果目录
+  ## Output result directory
   output_dir: ckg_data
 
-  ## 参考的开源三元组文件路径
+  ## Reference open source triple file path
   ref_kg_path: CommonKG/config/triple_ref_test.txt
